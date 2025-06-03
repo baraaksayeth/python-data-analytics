@@ -1,0 +1,33 @@
+<perusahaan nama="PT Maju Mundur">
+    <departemen nama="IT">
+        <karyawan id="1">
+            <nama>Andi</nama>
+            <umur>30</umur>
+            <jabatan>Programmer</jabatan>
+            <kontak>
+                <email>andi@majumundur.co.id</email>
+                <telepon>08123456789</telepon>
+            </kontak>
+        </karyawan>
+        <karyawan id="2">
+            <nama>Budi</nama>
+            <umur>28</umur>
+            <jabatan>Sysadmin</jabatan>
+            <kontak>
+                <email>budi@majumundur.co.id</email>
+                <telepon>08987654321</telepon>
+            </kontak>
+        </karyawan>
+    </departemen>
+    <departemen nama="HRD">
+        <karyawan id="3">
+            <nama>Citra</nama>
+            <umur>32</umur>
+            <jabatan>HR Manager</jabatan>
+            <kontak>
+                <email>citra@majumundur.co.id</email>
+                <telepon>082233445566</telepon>
+            </kontak>
+        </karyawan>
+    </departemen>
+</perusahaan>

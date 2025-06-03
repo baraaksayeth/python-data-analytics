@@ -1,0 +1,1001 @@
+InvoiceNo,Date,CustomerID,Gender,Age,Product,Category,Quantity,Price,Discount,Total,PaymentMethod,Location
+INV0001,2024-12-19,CUST058,Male,65,Rice 5kg,Groceries,2,23.1,0,46.2,Credit Card,Yogyakarta
+INV0002,2025-02-22,CUST045,Female,20,Shampoo,Personal,1,22.65,20,18.12,Credit Card,Jakarta
+INV0003,2025-01-19,CUST288,Male,63,Soap,Personal,5,42.53,15,180.75,Credit Card,Surabaya
+INV0004,2025-02-18,CUST004,Male,62,Milk 1L,Dairy,3,28.51,5,81.25,E-Wallet,Jakarta
+INV0005,2025-03-25,CUST048,Female,24,Instant Noodles,Groceries,3,60.77,0,182.31,Credit Card,Medan
+INV0006,2025-01-06,CUST275,Male,42,Toothpaste,Personal,5,30.02,20,120.08,E-Wallet,Yogyakarta
+INV0007,2025-01-03,CUST099,Male,20,Soap,Personal,2,77.53,0,155.06,Cash,Jakarta
+INV0008,2025-03-31,CUST195,Female,47,Soap,Personal,3,17.1,10,46.17,Cash,Surabaya
+INV0009,2025-04-30,CUST037,Male,52,Sneakers,Footwear,2,17.18,15,29.21,E-Wallet,Yogyakarta
+INV0010,2025-01-18,CUST113,Female,21,Jeans,Apparel,1,80.7,15,68.59,E-Wallet,Jakarta
+INV0011,2025-04-04,CUST109,Female,31,Soap,Personal,4,40.17,15,136.58,Cash,Surabaya
+INV0012,2025-01-23,CUST072,Male,65,Notebook,Stationery,5,27.01,20,108.04,E-Wallet,Yogyakarta
+INV0013,2025-01-05,CUST205,Female,32,T-shirt,Apparel,,49.86,0,249.3,Cash,Bandung
+INV0014,2025-03-06,CUST082,Female,56,Toothpaste,Personal,4,38.78,15,131.85,Credit Card,Surabaya
+INV0015,2025-05-14,CUST284,Male,61,Sneakers,Footwear,1,68.49,20,54.79,E-Wallet,Surabaya
+INV0016,2024-11-18,CUST058,Female,45,T-shirt,Apparel,4,1.32,10,4.75,Credit Card,Bandung
+INV0017,2025-01-21,CUST260,Male,58,Rice 5kg,Groceries,5,61.29,5,291.13,E-Wallet,Bandung
+INV0018,2025-02-03,CUST277,Male,56,Instant Noodles,Groceries,4,2.93,10,10.55,E-Wallet,Bandung
+INV0019,2025-02-05,CUST030,Male,54,Toothpaste,Personal,1,73.46,0,73.46,Credit Card,Bandung
+INV0020,2024-11-23,CUST066,Female,53,T-shirt,Apparel,3,53.24,20,127.78,E-Wallet,Bandung
+INV0021,2024-12-08,CUST277,Male,63,Rice 5kg,Groceries,4,99.52,10,358.27,E-Wallet,Yogyakarta
+INV0022,2024-12-03,CUST232,Male,33,Jeans,Apparel,1,34.47,20,27.58,Credit Card,Bandung
+INV0023,2025-02-24,CUST113,Male,22,Sneakers,Footwear,1,23.67,0,23.67,E-Wallet,Jakarta
+INV0024,2025-01-14,CUST264,Male,35,Soap,Personal,4,22.21,5,84.4,Credit Card,Yogyakarta
+INV0025,2025-03-19,CUST296,Female,33,Cheese,Dairy,4,19.85,0,79.4,Credit Card,Medan
+INV0026,2024-12-11,CUST182,Female,44,Cheese,Dairy,1,67.66,0,67.66,Cash,Medan
+INV0027,2025-04-30,CUST174,Male,33,Jeans,Apparel,2,54.09,5,102.77,E-Wallet,Bandung
+INV0028,2025-05-11,CUST143,Female,33,Toothpaste,Personal,4,80.99,20,259.17,Cash,Jakarta
+INV0029,2025-03-29,CUST277,Male,23,Jeans,Apparel,2,41.23,15,70.09,Cash,Medan
+INV0030,2025-04-03,CUST031,Male,42,Shampoo,Personal,4,27.26,15,92.68,E-Wallet,Medan
+INV0031,2025-03-25,CUST285,Female,27,Jeans,Apparel,3,22.55,0,67.65,Credit Card,Yogyakarta
+INV0032,2025-03-03,CUST032,Female,21,Shampoo,Personal,5,48.2,20,192.8,Cash,Jakarta
+INV0033,2025-05-14,CUST261,Male,29,Toothpaste,Personal,5,7.73,5,36.72,E-Wallet,Jakarta
+INV0034,2024-11-17,CUST292,Male,55,Pen,Stationery,1,62.32,15,52.97,Credit Card,Yogyakarta
+INV0035,2025-04-16,CUST290,Female,34,Jeans,Apparel,3,24.63,15,62.81,Cash,Surabaya
+INV0036,2024-12-21,CUST235,Female,22,Shampoo,Personal,4,62.49,20,199.97,Cash,Jakarta
+INV0037,2024-11-18,CUST276,Male,50,Rice 5kg,Groceries,2,93.39,0,186.78,Cash,Surabaya
+INV0038,2025-01-18,CUST146,Male,46,Notebook,Stationery,3,61.56,20,147.74,Cash,Yogyakarta
+INV0039,2024-12-14,CUST154,Male,26,Rice 5kg,Groceries,1,89.08,20,71.26,Cash,Surabaya
+INV0040,2024-12-16,CUST145,Male,63,Instant Noodles,Groceries,2,69.06,10,124.31,Credit Card,Medan
+INV0041,2024-12-08,CUST129,Male,23,Soap,Personal,4,83.11,0,332.44,Cash,Surabaya
+INV0042,2025-02-21,CUST067,Female,28,Sneakers,Footwear,4,55.62,15,189.11,Credit Card,Jakarta
+INV0043,2025-02-16,CUST058,Male,62,T-shirt,Apparel,5,4.57,10,20.57,Credit Card,Yogyakarta
+INV0044,2025-01-17,CUST076,Female,26,Shampoo,Personal,3,37.1,0,111.3,E-Wallet,Bandung
+INV0045,2024-12-21,CUST128,Male,40,Notebook,Stationery,4,97.41,5,370.16,Cash,Bandung
+INV0046,2025-02-16,CUST091,Female,19,T-shirt,Apparel,3,78.46,15,200.07,Credit Card,Bandung
+INV0047,2025-04-12,CUST137,Male,62,Toothpaste,Personal,4,87.34,15,296.96,Cash,Bandung
+INV0048,2025-05-11,CUST236,Female,37,Jeans,Apparel,2,3.34,5,6.35,E-Wallet,Surabaya
+INV0049,2024-11-21,CUST143,Male,35,Instant Noodles,Groceries,5,40.57,20,162.28,E-Wallet,Jakarta
+INV0050,2025-04-06,CUST060,Female,29,Pen,Stationery,3,4.79,20,11.5,E-Wallet,Surabaya
+INV0051,2025-02-05,CUST161,Female,56,Notebook,Stationery,1,39.13,20,31.3,Cash,Surabaya
+INV0052,2024-11-20,CUST023,Female,18,Notebook,Stationery,5,69.0,5,327.75,E-Wallet,Medan
+INV0053,2025-04-25,CUST036,Female,57,Instant Noodles,Groceries,1,72.26,10,65.03,Credit Card,Surabaya
+INV0054,2024-11-24,CUST210,Female,43,Sneakers,Footwear,3,55.89,5,159.29,E-Wallet,Medan
+INV0055,2025-04-26,CUST090,Female,43,Notebook,Stationery,1,31.08,5,29.53,E-Wallet,Yogyakarta
+INV0056,2025-03-19,CUST165,Female,46,Cheese,Dairy,2,51.61,5,98.06,Credit Card,Jakarta
+INV0057,2025-01-25,CUST146,Female,23,Jeans,Apparel,3,23.24,5,66.23,Cash,Jakarta
+INV0058,2025-04-06,CUST024,Male,48,Pen,Stationery,1,46.09,20,36.87,Cash,Medan
+INV0059,2025-05-08,CUST254,Female,33,T-shirt,Apparel,1,89.37,0,89.37,E-Wallet,Bandung
+INV0060,2025-01-04,CUST091,Female,21,Notebook,Stationery,2,91.83,0,183.66,E-Wallet,Bandung
+INV0061,2025-03-02,CUST238,Female,46,Pen,Stationery,5,43.25,20,173.0,E-Wallet,Bandung
+INV0062,2025-03-27,CUST244,Female,34,Jeans,Apparel,3,76.82,20,184.37,E-Wallet,Bandung
+INV0063,2025-02-23,CUST141,Female,22,Sneakers,Footwear,3,24.21,10,65.37,E-Wallet,Yogyakarta
+INV0064,2025-02-10,CUST042,Male,27,Jeans,Apparel,4,69.7,5,264.86,Cash,Medan
+INV0065,2024-12-01,CUST209,Female,52,Cheese,Dairy,4,7.16,15,24.34,E-Wallet,Yogyakarta
+INV0066,2025-03-02,CUST011,Female,48,Shampoo,Personal,3,30.56,15,77.93,E-Wallet,Yogyakarta
+INV0067,2025-02-18,CUST280,Male,49,Jeans,Apparel,3,44.15,0,132.45,E-Wallet,Surabaya
+INV0068,2025-02-27,CUST208,Male,47,T-shirt,Apparel,5,53.88,15,228.99,Credit Card,Yogyakarta
+INV0069,2025-02-05,CUST014,Male,59,Milk 1L,Dairy,2,86.82,5,164.96,Cash,Surabaya
+INV0070,2025-02-27,CUST195,Female,31,Cheese,Dairy,3,34.41,15,87.75,E-Wallet,Medan
+INV0071,2025-03-12,CUST130,Male,48,Shampoo,Personal,5,6.16,10,27.72,Cash,Jakarta
+INV0072,2025-04-24,CUST021,Male,33,Jeans,Apparel,1,62.51,5,59.38,Cash,Medan
+INV0073,2025-04-11,CUST059,Male,47,Sneakers,Footwear,3,76.92,5,219.22,Credit Card,Yogyakarta
+INV0074,2024-11-25,CUST059,Male,37,Toothpaste,Personal,5,3.54,10,15.93,Credit Card,Medan
+INV0075,2025-02-01,CUST204,Male,22,Pen,Stationery,2,11.09,10,19.96,Credit Card,Yogyakarta
+INV0076,2024-12-19,CUST062,Male,40,Notebook,Stationery,4,66.49,0,265.96,Credit Card,Surabaya
+INV0077,2025-03-09,CUST007,Female,49,Toothpaste,Personal,4,96.12,15,326.81,Credit Card,Bandung
+INV0078,2024-12-20,CUST223,Male,64,Notebook,Stationery,3,61.98,20,148.75,E-Wallet,Medan
+INV0079,2024-12-30,CUST224,Female,38,Jeans,Apparel,1,28.61,15,24.32,Cash,Medan
+INV0080,2024-12-23,CUST292,Female,39,Shampoo,Personal,4,85.24,5,323.91,E-Wallet,Bandung
+INV0081,2025-01-11,CUST182,Female,39,Rice 5kg,Groceries,5,70.42,10,316.89,Credit Card,Jakarta
+INV0082,2024-12-15,CUST265,Male,23,Jeans,Apparel,4,49.37,5,187.61,Credit Card,Medan
+INV0083,2025-05-03,CUST252,Female,19,Toothpaste,Personal,3,22.94,5,65.38,E-Wallet,Yogyakarta
+INV0084,2025-04-28,CUST189,Female,53,Notebook,Stationery,3,43.12,20,103.49,E-Wallet,Surabaya
+INV0085,2025-01-20,CUST233,Female,37,Rice 5kg,Groceries,2,12.94,5,24.59,E-Wallet,Jakarta
+INV0086,2025-03-22,CUST275,Male,30,Jeans,Apparel,4,28.37,20,90.78,Credit Card,Yogyakarta
+INV0087,2025-05-10,CUST145,Male,30,Rice 5kg,Groceries,2,36.73,10,66.11,Cash,Yogyakarta
+INV0088,2024-12-28,CUST065,Female,20,Shampoo,Personal,5,29.92,5,142.12,Credit Card,Medan
+INV0089,2024-12-29,CUST053,Male,54,Rice 5kg,Groceries,4,48.39,10,174.2,Cash,Jakarta
+INV0090,2025-03-25,CUST130,Female,25,Toothpaste,Personal,4,49.68,20,158.98,Credit Card,Jakarta
+INV0091,2025-01-17,CUST078,Male,54,Rice 5kg,Groceries,1,99.4,0,99.4,Credit Card,Medan
+INV0092,2025-04-06,CUST116,Female,46,Cheese,Dairy,3,86.16,15,219.71,E-Wallet,Yogyakarta
+INV0093,2025-03-24,CUST031,Male,31,Soap,Personal,2,27.2,0,54.4,Cash,Bandung
+INV0094,2024-11-21,CUST089,Male,28,Shampoo,Personal,4,45.6,20,145.92,E-Wallet,Surabaya
+INV0095,2025-04-17,CUST017,Male,36,Sneakers,Footwear,3,70.6,15,180.03,Cash,Bandung
+INV0096,2025-03-09,CUST136,Male,45,Toothpaste,Personal,5,23.26,5,110.48,E-Wallet,Bandung
+INV0097,2025-02-12,CUST037,Male,28,Rice 5kg,Groceries,5,75.15,20,300.6,E-Wallet,Medan
+INV0098,2025-03-30,CUST064,Female,62,Rice 5kg,Groceries,4,94.32,20,301.82,Credit Card,Medan
+INV0099,2025-03-07,CUST225,Male,56,Shampoo,Personal,4,73.72,20,235.9,E-Wallet,Jakarta
+INV0100,2025-05-09,CUST047,Male,61,Pen,Stationery,5,95.13,10,428.08,Credit Card,Jakarta
+INV0101,2025-02-04,CUST090,Female,51,Soap,Personal,4,91.69,5,348.42,Credit Card,Medan
+INV0102,2024-12-20,CUST252,Male,48,Instant Noodles,Groceries,4,34.0,0,136.0,Cash,Surabaya
+INV0103,2025-05-13,CUST211,Female,36,Soap,Personal,4,81.54,20,260.93,Cash,Medan
+INV0104,2025-03-22,CUST046,Female,34,Instant Noodles,Groceries,1,97.05,15,82.49,Credit Card,Jakarta
+INV0105,2024-12-02,CUST278,Female,44,Shampoo,Personal,2,52.33,20,83.73,E-Wallet,Medan
+INV0106,2025-04-14,CUST027,Male,35,Notebook,Stationery,2,92.84,15,157.83,Credit Card,Medan
+INV0107,2025-03-30,CUST063,Male,58,Pen,Stationery,2,71.27,10,128.29,Credit Card,Jakarta
+INV0108,2025-03-11,CUST283,Female,23,Jeans,Apparel,1,46.68,0,46.68,Credit Card,Bandung
+INV0109,2024-12-21,CUST256,Female,50,Sneakers,Footwear,3,42.13,15,107.43,E-Wallet,Bandung
+INV0110,2024-11-17,CUST234,Male,42,Jeans,Apparel,5,51.32,5,243.77,Cash,Surabaya
+INV0111,2025-02-09,CUST213,Female,50,Rice 5kg,Groceries,1,29.0,10,26.1,Credit Card,Yogyakarta
+INV0112,2025-01-07,CUST251,Male,46,Notebook,Stationery,4,35.17,20,112.54,Credit Card,Medan
+INV0113,2025-05-10,CUST234,Female,30,Sneakers,Footwear,2,57.61,5,109.46,E-Wallet,Jakarta
+INV0114,2025-04-06,CUST163,Female,63,Milk 1L,Dairy,4,98.85,5,375.63,E-Wallet,Jakarta
+INV0115,2025-02-22,CUST065,Female,24,Cheese,Dairy,1,53.07,15,45.11,Cash,Bandung
+INV0116,2025-01-12,CUST210,Male,22,Cheese,Dairy,3,34.52,15,88.03,Credit Card,Jakarta
+INV0117,2025-02-04,CUST169,Female,38,Soap,Personal,4,87.37,0,349.48,Credit Card,Jakarta
+INV0118,2025-02-06,CUST121,Female,32,Sneakers,Footwear,1,43.96,0,43.96,Credit Card,Jakarta
+INV0119,2025-04-07,CUST228,Male,62,Rice 5kg,Groceries,1,5.55,0,5.55,E-Wallet,Surabaya
+INV0120,2025-01-03,CUST192,Female,27,Jeans,Apparel,5,41.79,5,198.5,Cash,Bandung
+INV0121,2025-05-09,CUST041,Female,57,Soap,Personal,2,50.27,20,80.43,Cash,Bandung
+INV0122,2025-02-12,CUST237,Female,47,Rice 5kg,Groceries,1,89.99,15,76.49,E-Wallet,Yogyakarta
+INV0123,2025-05-09,CUST081,Male,46,Instant Noodles,Groceries,5,30.62,15,130.13,Credit Card,Surabaya
+INV0124,2025-01-18,CUST234,Female,30,Milk 1L,Dairy,4,11.56,15,39.3,Credit Card,Surabaya
+INV0125,2025-03-30,CUST295,Female,62,Rice 5kg,Groceries,1,97.82,15,83.15,E-Wallet,Jakarta
+INV0126,2025-02-28,CUST290,Male,56,Sneakers,Footwear,4,83.45,10,300.42,Cash,Yogyakarta
+INV0127,2025-04-17,CUST181,Male,58,Jeans,Apparel,5,25.81,5,122.6,Credit Card,Jakarta
+INV0128,2024-12-07,CUST021,Female,46,Shampoo,Personal,5,37.12,5,176.32,Cash,Surabaya
+INV0129,2024-12-30,CUST168,Female,29,Jeans,Apparel,2,78.86,10,141.95,Credit Card,Yogyakarta
+INV0130,2025-05-10,CUST140,Male,34,Cheese,Dairy,3,74.91,10,202.26,Cash,Medan
+INV0131,2025-02-12,CUST039,Male,32,Soap,Personal,4,96.76,20,309.63,E-Wallet,Jakarta
+INV0132,2025-05-10,CUST203,Male,34,Notebook,Stationery,1,46.02,10,41.42,Credit Card,Medan
+INV0133,2025-01-11,CUST191,Male,61,Jeans,Apparel,4,3.48,20,11.14,E-Wallet,Yogyakarta
+INV0134,2025-05-14,CUST114,Male,58,Cheese,Dairy,3,65.27,0,195.81,Cash,Jakarta
+INV0135,2025-02-06,CUST020,Female,49,Toothpaste,Personal,1,24.25,20,19.4,Cash,Medan
+INV0136,2024-12-28,CUST233,Female,60,Sneakers,Footwear,5,42.49,5,201.83,E-Wallet,Jakarta
+INV0137,2025-02-11,CUST251,Female,35,Shampoo,Personal,3,22.51,15,57.4,Cash,Surabaya
+INV0138,2025-03-06,CUST051,Female,52,Soap,Personal,3,6.99,10,18.87,Cash,Jakarta
+INV0139,2025-01-10,CUST233,Male,60,Jeans,Apparel,5,97.14,0,485.7,E-Wallet,Bandung
+INV0140,2025-03-25,CUST065,Male,22,Notebook,Stationery,2,59.05,5,112.19,E-Wallet,Bandung
+INV0141,2025-01-24,CUST002,Female,27,T-shirt,Apparel,5,25.81,5,122.6,Cash,Jakarta
+INV0142,2025-01-08,CUST068,Male,40,Jeans,Apparel,5,33.05,5,156.99,E-Wallet,Jakarta
+INV0143,2025-05-04,CUST065,Female,51,Toothpaste,Personal,1,48.15,10,43.34,Credit Card,Yogyakarta
+INV0144,2025-04-22,CUST056,Female,50,Jeans,Apparel,5,5.29,20,21.16,E-Wallet,Medan
+INV0145,2025-05-05,CUST016,Male,48,Milk 1L,Dairy,4,68.92,15,234.33,Credit Card,Medan
+INV0146,2025-05-06,CUST038,Male,38,Pen,Stationery,2,7.5,10,13.5,Credit Card,Yogyakarta
+INV0147,2025-01-06,CUST281,Female,42,Pen,Stationery,5,30.19,20,120.76,Credit Card,Medan
+INV0148,2025-02-28,CUST051,Male,59,Soap,Personal,5,72.36,5,343.71,E-Wallet,Medan
+INV0149,2025-01-31,CUST117,Female,39,Cheese,Dairy,4,42.18,0,168.72,E-Wallet,Medan
+INV0150,2024-12-02,CUST161,Female,41,T-shirt,Apparel,4,7.65,0,30.6,Cash,Medan
+INV0151,2025-01-04,CUST050,Female,26,Notebook,Stationery,1,59.06,20,47.25,Credit Card,Surabaya
+INV0152,2025-05-07,CUST063,Female,40,Soap,Personal,4,86.94,0,347.76,E-Wallet,Yogyakarta
+INV0153,2024-11-26,CUST160,Female,24,Pen,Stationery,5,22.06,15,93.75,Cash,Jakarta
+INV0154,2025-01-09,CUST180,Female,25,Rice 5kg,Groceries,5,23.39,15,99.41,Credit Card,Yogyakarta
+INV0155,2025-04-20,CUST286,Male,56,Soap,Personal,3,3.87,10,10.45,Credit Card,Surabaya
+INV0156,2025-04-20,CUST174,Female,18,T-shirt,Apparel,2,57.07,15,97.02,Cash,Bandung
+INV0157,2025-05-08,CUST016,Male,65,Notebook,Stationery,2,38.24,15,65.01,E-Wallet,Bandung
+INV0158,2024-12-22,CUST190,Female,64,Instant Noodles,Groceries,5,60.03,0,300.15,Cash,Bandung
+INV0159,2025-02-06,CUST026,Male,35,Cheese,Dairy,4,49.08,15,166.87,E-Wallet,Surabaya
+INV0160,2024-12-11,CUST111,Male,40,Milk 1L,Dairy,1,29.04,20,23.23,E-Wallet,Yogyakarta
+INV0161,2025-03-21,CUST158,Male,32,Milk 1L,Dairy,5,6.42,5,30.5,E-Wallet,Bandung
+INV0162,2025-05-14,CUST071,Female,36,Instant Noodles,Groceries,1,1.77,15,1.5,Cash,Bandung
+INV0163,2024-12-09,CUST195,Male,50,Notebook,Stationery,3,8.14,0,24.42,E-Wallet,Jakarta
+INV0164,2025-02-23,CUST236,Male,38,Pen,Stationery,4,57.77,15,196.42,E-Wallet,Jakarta
+INV0165,2025-04-06,CUST208,Male,38,T-shirt,Apparel,5,46.55,10,209.47,Cash,Medan
+INV0166,2025-03-16,CUST055,Male,45,Pen,Stationery,4,52.87,15,179.76,E-Wallet,Surabaya
+INV0167,2025-03-29,CUST114,Female,28,Toothpaste,Personal,5,63.69,20,254.76,Credit Card,Bandung
+INV0168,2025-03-22,CUST179,Female,64,Soap,Personal,2,24.39,5,46.34,E-Wallet,Bandung
+INV0169,2025-03-24,CUST089,Male,59,Toothpaste,Personal,2,95.18,15,161.81,E-Wallet,Yogyakarta
+INV0170,2025-03-26,CUST297,Female,61,Pen,Stationery,5,33.0,10,148.5,Cash,Medan
+INV0171,2025-01-02,CUST035,Female,46,Soap,Personal,3,79.84,20,191.62,Cash,Surabaya
+INV0172,2025-02-20,CUST260,Male,37,Cheese,Dairy,4,4.72,10,16.99,E-Wallet,Jakarta
+INV0173,2025-02-04,CUST047,Female,47,Pen,Stationery,5,95.47,0,477.35,E-Wallet,Yogyakarta
+INV0174,2025-02-19,CUST097,Female,56,Cheese,Dairy,5,15.94,0,79.7,E-Wallet,Jakarta
+INV0175,2024-11-22,CUST176,Male,50,Soap,Personal,2,4.88,15,8.3,E-Wallet,Yogyakarta
+INV0176,2025-02-04,CUST268,Male,41,Instant Noodles,Groceries,3,39.35,10,106.25,Credit Card,Yogyakarta
+INV0177,2024-11-14,CUST027,Female,22,Instant Noodles,Groceries,1,56.24,15,47.8,E-Wallet,Surabaya
+INV0178,2025-03-11,CUST077,Female,23,Pen,Stationery,2,91.76,10,165.17,Credit Card,Medan
+INV0179,2025-03-12,CUST067,Male,37,Notebook,Stationery,4,64.71,10,232.96,Cash,Yogyakarta
+INV0180,2024-12-23,CUST048,Female,50,Instant Noodles,Groceries,1,36.9,5,35.05,Cash,Surabaya
+INV0181,2025-05-09,CUST249,Male,32,T-shirt,Apparel,2,8.64,0,17.28,Credit Card,Yogyakarta
+INV0182,2024-11-26,CUST270,Male,60,Instant Noodles,Groceries,5,13.97,15,59.37,Cash,Bandung
+INV0183,2025-01-02,CUST093,Male,64,Cheese,Dairy,1,41.68,5,39.6,E-Wallet,Yogyakarta
+INV0184,2025-03-15,CUST146,Female,32,Notebook,Stationery,2,31.64,15,53.79,Cash,Surabaya
+INV0185,2025-04-03,CUST293,Female,47,Rice 5kg,Groceries,4,50.79,15,172.69,Cash,Bandung
+INV0186,2025-04-18,CUST071,Female,21,Soap,Personal,4,87.54,20,280.13,Cash,Yogyakarta
+INV0187,2025-03-21,CUST064,Female,23,T-shirt,Apparel,3,45.48,20,109.15,Cash,Medan
+INV0188,2025-04-13,CUST047,Male,46,Instant Noodles,Groceries,1,42.07,15,35.76,Credit Card,Surabaya
+INV0189,2025-03-31,CUST121,Female,23,Instant Noodles,Groceries,2,3.79,0,7.58,Credit Card,Surabaya
+INV0190,2025-04-01,CUST075,Male,20,Rice 5kg,Groceries,4,69.91,5,265.66,Credit Card,Medan
+INV0191,2025-04-26,CUST230,Male,23,Shampoo,Personal,3,22.35,5,63.7,Credit Card,Yogyakarta
+INV0192,2025-02-25,CUST271,Female,25,Rice 5kg,Groceries,2,30.81,0,61.62,Cash,Medan
+INV0193,2024-12-24,CUST235,Male,25,Cheese,Dairy,5,54.07,20,216.28,Credit Card,Bandung
+INV0194,2025-01-10,CUST074,Female,45,Shampoo,Personal,5,35.93,20,143.72,E-Wallet,Bandung
+INV0195,2025-03-25,CUST044,Female,22,Notebook,Stationery,5,51.23,20,204.92,Credit Card,Jakarta
+INV0196,2024-11-26,CUST200,Female,20,Soap,Personal,4,98.12,10,353.23,Credit Card,Jakarta
+INV0197,2025-01-01,CUST183,Male,40,Jeans,Apparel,1,77.38,10,69.64,Cash,Jakarta
+INV0198,2025-01-24,CUST181,Female,59,T-shirt,Apparel,4,98.1,15,333.54,Credit Card,Bandung
+INV0199,2025-03-01,CUST070,Male,63,Cheese,Dairy,1,30.05,0,30.05,Cash,Jakarta
+INV0200,2024-12-24,CUST162,Female,50,Milk 1L,Dairy,5,47.87,0,239.35,Credit Card,Bandung
+INV0201,2024-11-28,CUST147,Female,21,Soap,Personal,3,28.05,10,75.74,E-Wallet,Medan
+INV0202,2024-12-07,CUST226,Female,39,T-shirt,Apparel,4,69.51,10,250.24,Credit Card,Surabaya
+INV0203,2025-01-11,CUST043,Female,23,Milk 1L,Dairy,5,99.51,5,472.67,Credit Card,Surabaya
+INV0204,2024-11-29,CUST165,Male,23,Instant Noodles,Groceries,3,31.34,20,75.22,Credit Card,Medan
+INV0205,2024-12-07,CUST086,Female,40,Cheese,Dairy,1,72.95,10,65.66,Credit Card,Medan
+INV0206,2024-12-09,CUST141,Male,22,Soap,Personal,4,36.97,5,140.49,Cash,Bandung
+INV0207,2025-02-01,CUST225,Male,26,Toothpaste,Personal,2,78.07,10,140.53,E-Wallet,Medan
+INV0208,2025-02-12,CUST291,Male,56,T-shirt,Apparel,4,94.93,10,341.75,E-Wallet,Jakarta
+INV0209,2024-12-14,CUST294,Male,51,Instant Noodles,Groceries,4,32.12,10,115.63,Cash,Jakarta
+INV0210,2025-03-16,CUST014,Male,49,Notebook,Stationery,4,91.44,0,365.76,E-Wallet,Surabaya
+INV0211,2024-12-03,CUST229,Male,57,Rice 5kg,Groceries,4,20.82,5,79.12,Cash,Medan
+INV0212,2024-12-01,CUST089,Female,23,Soap,Personal,3,67.12,0,201.36,Credit Card,Yogyakarta
+INV0213,2025-01-12,CUST149,Female,28,Sneakers,Footwear,2,79.58,20,127.33,Cash,Jakarta
+INV0214,2025-03-19,CUST103,Male,33,Cheese,Dairy,1,36.73,20,29.38,E-Wallet,Medan
+INV0215,2025-03-15,CUST283,Male,57,Toothpaste,Personal,1,31.62,15,26.88,Credit Card,Medan
+INV0216,2025-04-08,CUST210,Male,26,Instant Noodles,Groceries,1,45.55,20,36.44,E-Wallet,Bandung
+INV0217,2025-03-22,CUST283,Male,26,Milk 1L,Dairy,5,91.16,0,455.8,Cash,Yogyakarta
+INV0218,2025-01-02,CUST079,Female,28,T-shirt,Apparel,3,93.54,5,266.59,E-Wallet,Yogyakarta
+INV0219,2025-05-12,CUST146,Male,34,Jeans,Apparel,5,28.17,10,126.77,Credit Card,Yogyakarta
+INV0220,2024-11-24,CUST048,Male,55,Pen,Stationery,2,17.95,20,28.72,Credit Card,Yogyakarta
+INV0221,2025-02-25,CUST173,Male,19,Toothpaste,Personal,1,94.91,20,75.93,E-Wallet,Bandung
+INV0222,2025-01-23,CUST293,Female,57,Soap,Personal,1,50.31,20,40.25,E-Wallet,Surabaya
+INV0223,2024-11-23,CUST248,Male,61,Milk 1L,Dairy,3,45.9,0,137.7,Cash,Medan
+INV0224,2025-01-23,CUST213,Female,47,Jeans,Apparel,3,61.06,10,164.86,Credit Card,Surabaya
+INV0225,2025-04-02,CUST177,Female,26,Instant Noodles,Groceries,5,56.6,10,254.7,Cash,Medan
+INV0226,2024-11-25,CUST063,Female,46,Jeans,Apparel,2,10.58,10,19.04,E-Wallet,Yogyakarta
+INV0227,2024-12-15,CUST215,Male,28,Instant Noodles,Groceries,5,72.39,5,343.85,Cash,Medan
+INV0228,2025-03-30,CUST264,Female,49,Rice 5kg,Groceries,4,3.29,15,11.19,Credit Card,Medan
+INV0229,2025-04-05,CUST124,Male,55,Instant Noodles,Groceries,1,6.0,15,5.1,Credit Card,Medan
+INV0230,2024-12-01,CUST147,Male,24,Milk 1L,Dairy,2,88.36,10,159.05,E-Wallet,Surabaya
+INV0231,2025-01-27,CUST024,Female,21,Pen,Stationery,5,20.27,20,81.08,E-Wallet,Jakarta
+INV0232,2024-11-29,CUST198,Female,53,Rice 5kg,Groceries,5,68.36,0,341.8,Cash,Jakarta
+INV0233,2025-03-13,CUST202,Female,39,Notebook,Stationery,3,75.74,5,215.86,Credit Card,Yogyakarta
+INV0234,2025-03-26,CUST206,Male,20,Shampoo,Personal,2,71.65,15,121.81,Credit Card,Medan
+INV0235,2025-02-21,CUST077,Male,38,Pen,Stationery,3,17.09,20,41.02,Credit Card,Surabaya
+INV0236,2024-12-09,CUST173,Female,63,Pen,Stationery,3,48.01,0,144.03,E-Wallet,Surabaya
+INV0237,2025-02-14,CUST057,Female,55,Rice 5kg,Groceries,1,60.09,10,54.08,Credit Card,Yogyakarta
+INV0238,2024-11-26,CUST296,Male,64,Shampoo,Personal,5,48.56,20,194.24,Credit Card,Yogyakarta
+INV0239,2025-02-07,CUST195,Male,61,Jeans,Apparel,1,57.68,0,57.68,Cash,Jakarta
+INV0240,2025-04-04,CUST226,Female,44,T-shirt,Apparel,4,69.36,15,235.82,Credit Card,Yogyakarta
+INV0241,2025-02-15,CUST242,Male,63,T-shirt,Apparel,5,21.53,10,96.89,Credit Card,Medan
+INV0242,2024-11-30,CUST270,Female,38,T-shirt,Apparel,4,91.3,10,328.68,Credit Card,Surabaya
+INV0243,2024-12-17,CUST136,Female,30,Jeans,Apparel,3,56.25,5,160.31,E-Wallet,Surabaya
+INV0244,2025-02-05,CUST107,Female,38,Cheese,Dairy,3,56.49,10,152.52,E-Wallet,Jakarta
+INV0245,2025-02-20,CUST294,Female,43,Instant Noodles,Groceries,2,29.75,10,53.55,Credit Card,Jakarta
+INV0246,2025-04-18,CUST178,Female,59,Rice 5kg,Groceries,4,22.18,20,70.98,E-Wallet,Yogyakarta
+INV0247,2025-05-06,CUST140,Male,24,Pen,Stationery,5,24.69,0,123.45,Credit Card,Yogyakarta
+INV0248,2024-12-04,CUST116,Male,21,Toothpaste,Personal,4,33.7,15,114.58,Cash,Bandung
+INV0249,2025-03-19,CUST003,Male,44,Soap,Personal,4,48.27,5,183.43,E-Wallet,Surabaya
+INV0250,2025-04-11,CUST147,Male,23,Soap,Personal,5,23.99,0,119.95,Cash,Medan
+INV0251,2025-01-08,CUST091,Male,43,Cheese,Dairy,2,93.72,10,168.7,Cash,Jakarta
+INV0252,2025-03-07,CUST153,Male,39,Rice 5kg,Groceries,4,98.92,20,316.54,Credit Card,Medan
+INV0253,2024-11-19,CUST069,Female,35,Jeans,Apparel,1,33.74,15,28.68,Credit Card,Surabaya
+INV0254,2025-01-02,CUST096,Male,65,Instant Noodles,Groceries,3,57.21,5,163.05,Cash,Yogyakarta
+INV0255,2024-11-14,CUST208,Female,50,Instant Noodles,Groceries,1,40.68,0,40.68,Cash,Bandung
+INV0256,2025-04-16,CUST245,Female,33,Shampoo,Personal,3,38.97,15,99.37,E-Wallet,Surabaya
+INV0257,2025-04-11,CUST155,Male,34,Soap,Personal,3,69.58,0,208.74,Credit Card,Jakarta
+INV0258,2025-03-12,CUST239,Female,28,Milk 1L,Dairy,5,92.39,10,415.75,Credit Card,Jakarta
+INV0259,2024-12-01,CUST152,Female,57,Jeans,Apparel,2,95.78,15,162.83,Cash,Medan
+INV0260,2025-05-02,CUST192,Female,62,Notebook,Stationery,4,75.98,5,288.72,Cash,Yogyakarta
+INV0261,2025-04-17,CUST042,Female,51,Sneakers,Footwear,3,8.73,20,20.95,Cash,Jakarta
+INV0262,2025-03-24,CUST281,Male,54,Notebook,Stationery,2,17.29,20,27.66,E-Wallet,Jakarta
+INV0263,2024-11-19,CUST106,Female,23,Notebook,Stationery,4,81.06,15,275.6,Cash,Yogyakarta
+INV0264,2025-03-08,CUST213,Female,54,Shampoo,Personal,5,46.78,10,210.51,Credit Card,Jakarta
+INV0265,2025-04-04,CUST203,Female,18,Sneakers,Footwear,2,58.25,0,116.5,E-Wallet,Surabaya
+INV0266,2025-02-15,CUST033,Male,22,Cheese,Dairy,1,29.42,5,27.95,Cash,Medan
+INV0267,2025-01-31,CUST192,Female,46,Milk 1L,Dairy,4,8.94,20,28.61,Cash,Surabaya
+INV0268,2024-12-15,CUST061,Male,52,Milk 1L,Dairy,5,13.61,5,64.65,Cash,Jakarta
+INV0269,2025-04-21,CUST153,Female,61,Sneakers,Footwear,5,42.99,15,182.71,Cash,Bandung
+INV0270,2025-01-22,CUST236,Female,27,Rice 5kg,Groceries,2,93.8,0,187.6,Cash,Medan
+INV0271,2025-01-14,CUST009,Male,31,Toothpaste,Personal,1,59.8,15,50.83,Credit Card,Jakarta
+INV0272,2025-01-23,CUST126,Male,43,Cheese,Dairy,2,54.44,0,108.88,Cash,Yogyakarta
+INV0273,2024-12-07,CUST149,Male,64,Pen,Stationery,3,58.17,10,157.06,Cash,Surabaya
+INV0274,2024-12-25,CUST074,Male,44,Rice 5kg,Groceries,3,7.03,20,16.87,Credit Card,Bandung
+INV0275,2025-01-27,CUST219,Female,21,Instant Noodles,Groceries,4,78.79,10,283.64,Credit Card,Medan
+INV0276,2025-04-17,CUST210,Male,37,Milk 1L,Dairy,2,75.69,15,128.67,Cash,Bandung
+INV0277,2024-12-09,CUST154,Male,47,Shampoo,Personal,5,41.86,15,177.91,Credit Card,Yogyakarta
+INV0278,2024-12-01,CUST069,Female,33,Rice 5kg,Groceries,2,33.7,0,67.4,E-Wallet,Surabaya
+INV0279,2024-12-15,CUST048,Male,21,Rice 5kg,Groceries,4,67.69,20,216.61,Cash,Jakarta
+INV0280,2024-11-18,CUST097,Male,48,Jeans,Apparel,3,31.02,0,93.06,Cash,Bandung
+INV0281,2025-03-28,CUST061,Female,33,Sneakers,Footwear,5,70.67,15,300.35,Cash,Yogyakarta
+INV0282,2025-01-12,CUST165,Female,42,Cheese,Dairy,5,65.22,10,293.49,E-Wallet,Surabaya
+INV0283,2025-03-24,CUST263,Female,47,Toothpaste,Personal,4,76.4,10,275.04,Cash,Surabaya
+INV0284,2025-04-23,CUST161,Female,20,Pen,Stationery,2,74.38,0,148.76,E-Wallet,Yogyakarta
+INV0285,2024-11-15,CUST300,Female,36,T-shirt,Apparel,2,33.66,15,57.22,Credit Card,Bandung
+INV0286,2025-02-17,CUST256,Female,34,Cheese,Dairy,4,46.62,10,167.83,Cash,Bandung
+INV0287,2024-11-16,CUST280,Female,29,Notebook,Stationery,1,52.87,0,52.87,Credit Card,Jakarta
+INV0288,2025-02-10,CUST004,Female,26,Soap,Personal,2,7.73,5,14.69,Cash,Bandung
+INV0289,2025-01-11,CUST259,Female,41,Shampoo,Personal,5,64.14,20,256.56,E-Wallet,Medan
+INV0290,2025-05-15,CUST009,Male,52,Notebook,Stationery,4,2.17,20,6.94,Credit Card,Surabaya
+INV0291,2025-01-08,CUST275,Female,19,Notebook,Stationery,4,80.81,5,307.08,Cash,Jakarta
+INV0292,2024-12-31,CUST269,Male,33,Jeans,Apparel,5,53.12,10,239.04,E-Wallet,Medan
+INV0293,2025-03-14,CUST041,Female,43,Cheese,Dairy,5,25.08,5,119.13,E-Wallet,Jakarta
+INV0294,2025-01-23,CUST017,Male,43,Milk 1L,Dairy,4,55.72,0,222.88,Credit Card,Jakarta
+INV0295,2025-01-23,CUST088,Male,49,Milk 1L,Dairy,3,57.02,0,171.06,Credit Card,Jakarta
+INV0296,2025-01-21,CUST118,Male,62,Pen,Stationery,4,27.84,0,111.36,Credit Card,Surabaya
+INV0297,2025-04-17,CUST279,Male,29,Instant Noodles,Groceries,1,96.19,20,76.95,Cash,Medan
+INV0298,2025-02-21,CUST040,Female,28,Pen,Stationery,2,57.1,15,97.07,Credit Card,Yogyakarta
+INV0299,2024-12-20,CUST170,Female,65,T-shirt,Apparel,1,50.58,10,45.52,Cash,Jakarta
+INV0300,2025-03-11,CUST224,Male,22,Instant Noodles,Groceries,5,77.13,20,308.52,E-Wallet,Surabaya
+INV0301,2025-03-26,CUST016,Female,46,Cheese,Dairy,2,36.23,15,61.59,E-Wallet,Bandung
+INV0302,2025-01-21,CUST300,Female,23,Pen,Stationery,3,80.01,0,240.03,Cash,Surabaya
+INV0303,2025-04-19,CUST079,Female,63,Soap,Personal,2,74.23,10,133.61,E-Wallet,Jakarta
+INV0304,2025-05-13,CUST047,Male,37,Cheese,Dairy,3,76.37,0,229.11,Cash,Jakarta
+INV0305,2025-03-11,CUST096,Female,46,Notebook,Stationery,5,51.73,0,258.65,Cash,Jakarta
+INV0306,2025-03-12,CUST182,Male,56,Pen,Stationery,3,86.51,0,259.53,E-Wallet,Medan
+INV0307,2024-11-29,CUST199,Male,64,Notebook,Stationery,2,57.62,5,109.48,Credit Card,Medan
+INV0308,2024-12-30,CUST087,Male,35,Rice 5kg,Groceries,3,49.82,0,149.46,Cash,Medan
+INV0309,2024-11-30,CUST142,Female,37,Cheese,Dairy,1,36.75,5,34.91,Credit Card,Medan
+INV0310,2025-04-20,CUST101,Female,24,T-shirt,Apparel,3,1.67,15,4.26,E-Wallet,Yogyakarta
+INV0311,2024-12-07,CUST195,Female,46,Instant Noodles,Groceries,4,81.73,20,261.54,Cash,Surabaya
+INV0312,2025-01-27,CUST165,Male,48,Instant Noodles,Groceries,2,96.49,10,173.68,E-Wallet,Medan
+INV0313,2025-03-29,CUST295,Male,38,Milk 1L,Dairy,3,81.83,15,208.67,E-Wallet,Jakarta
+INV0314,2025-04-03,CUST289,Male,55,Notebook,Stationery,2,68.49,20,109.58,Cash,Medan
+INV0315,2025-02-16,CUST108,Female,36,Sneakers,Footwear,1,82.08,15,69.77,Credit Card,Medan
+INV0316,2025-03-22,CUST072,Female,33,Rice 5kg,Groceries,2,71.81,15,122.08,Cash,Medan
+INV0317,2025-02-13,CUST246,Female,52,Notebook,Stationery,4,54.82,10,197.35,Credit Card,Yogyakarta
+INV0318,2025-03-07,CUST044,Male,33,Soap,Personal,3,17.47,20,41.93,Cash,Yogyakarta
+INV0319,2024-11-25,CUST205,Female,45,Toothpaste,Personal,1,10.76,5,10.22,Credit Card,Yogyakarta
+INV0320,2025-03-02,CUST286,Male,46,Instant Noodles,Groceries,4,46.84,20,149.89,Credit Card,Yogyakarta
+INV0321,2025-04-07,CUST078,Female,19,Cheese,Dairy,1,30.25,0,30.25,Cash,Bandung
+INV0322,2025-03-24,CUST179,Female,39,Cheese,Dairy,2,52.59,10,94.66,E-Wallet,Jakarta
+INV0323,2024-12-01,CUST225,Female,38,Toothpaste,Personal,3,5.42,0,16.26,Cash,Surabaya
+INV0324,2025-01-30,CUST056,Male,65,Jeans,Apparel,5,18.27,5,86.78,E-Wallet,Yogyakarta
+INV0325,2024-12-30,CUST219,Female,32,Milk 1L,Dairy,2,19.45,15,33.06,E-Wallet,Jakarta
+INV0326,2025-03-19,CUST102,Female,55,Milk 1L,Dairy,4,1.44,5,5.47,Cash,Surabaya
+INV0327,2025-01-22,CUST033,Male,52,T-shirt,Apparel,3,33.27,15,84.84,Cash,Surabaya
+INV0328,2025-04-09,CUST251,Female,56,Milk 1L,Dairy,5,39.86,0,199.3,E-Wallet,Surabaya
+INV0329,2024-11-21,CUST235,Male,61,Sneakers,Footwear,3,91.95,20,220.68,Cash,Bandung
+INV0330,2025-03-28,CUST161,Male,33,Rice 5kg,Groceries,1,19.12,5,18.16,Credit Card,Medan
+INV0331,2025-05-09,CUST215,Male,54,Milk 1L,Dairy,4,19.39,20,62.05,Credit Card,Bandung
+INV0332,2025-02-11,CUST285,Male,49,Rice 5kg,Groceries,2,19.52,15,33.18,Credit Card,Jakarta
+INV0333,2025-01-29,CUST184,Male,49,T-shirt,Apparel,2,81.71,20,130.74,Credit Card,Medan
+INV0334,2025-02-24,CUST210,Female,44,Sneakers,Footwear,4,49.38,0,197.52,Credit Card,Jakarta
+INV0335,2025-03-07,CUST113,Female,20,Rice 5kg,Groceries,2,54.22,5,103.02,E-Wallet,Yogyakarta
+INV0336,2025-01-05,CUST254,Male,54,Toothpaste,Personal,3,77.74,10,209.9,Credit Card,Jakarta
+INV0337,2025-01-20,CUST226,Male,45,Toothpaste,Personal,2,30.47,0,60.94,E-Wallet,Surabaya
+INV0338,2025-03-08,CUST179,Male,46,Toothpaste,Personal,2,21.78,20,34.85,Credit Card,Surabaya
+INV0339,2025-01-22,CUST220,Male,57,T-shirt,Apparel,2,81.54,0,163.08,Credit Card,Surabaya
+INV0340,2025-02-13,CUST273,Female,56,Notebook,Stationery,2,33.04,10,59.47,E-Wallet,Yogyakarta
+INV0341,2025-04-03,CUST137,Male,26,Milk 1L,Dairy,1,99.26,5,94.3,Credit Card,Bandung
+INV0342,2025-02-06,CUST128,Male,63,Instant Noodles,Groceries,2,76.39,15,129.86,E-Wallet,Bandung
+INV0343,2025-04-04,CUST296,Female,58,Milk 1L,Dairy,4,45.75,0,183.0,E-Wallet,Yogyakarta
+INV0344,2025-02-15,CUST143,Female,47,Cheese,Dairy,3,58.61,0,175.83,Credit Card,Medan
+INV0345,2025-02-20,CUST184,Male,52,Milk 1L,Dairy,2,96.84,5,184.0,E-Wallet,Surabaya
+INV0346,2024-11-18,CUST166,Female,39,Notebook,Stationery,5,13.93,15,59.2,E-Wallet,Jakarta
+INV0347,2024-11-28,CUST024,Male,58,Cheese,Dairy,1,13.3,5,12.63,E-Wallet,Medan
+INV0348,2025-04-27,CUST001,Female,30,Sneakers,Footwear,2,88.33,10,158.99,Cash,Surabaya
+INV0349,2025-03-03,CUST048,Female,34,Toothpaste,Personal,3,66.79,5,190.35,Cash,Medan
+INV0350,2025-03-13,CUST157,Male,45,Soap,Personal,1,70.67,0,70.67,Cash,Medan
+INV0351,2025-03-25,CUST040,Male,55,Jeans,Apparel,5,68.32,0,341.6,Cash,Surabaya
+INV0352,2024-11-22,CUST062,Female,62,T-shirt,Apparel,4,8.01,15,27.23,Cash,Jakarta
+INV0353,2025-01-20,CUST053,Female,41,Rice 5kg,Groceries,2,38.89,5,73.89,Credit Card,Bandung
+INV0354,2025-03-18,CUST036,Male,57,Soap,Personal,2,44.57,5,84.68,Credit Card,Bandung
+INV0355,2025-01-25,CUST211,Female,31,Toothpaste,Personal,1,14.86,0,14.86,Credit Card,Medan
+INV0356,2025-04-05,CUST180,Female,38,T-shirt,Apparel,2,28.42,0,56.84,Cash,Yogyakarta
+INV0357,2025-05-11,CUST146,Male,60,Rice 5kg,Groceries,2,52.26,20,83.62,Cash,Medan
+INV0358,2024-12-15,CUST152,Male,33,Cheese,Dairy,4,12.16,15,41.34,Credit Card,Yogyakarta
+INV0359,2025-04-25,CUST037,Male,41,Instant Noodles,Groceries,2,39.3,20,62.88,E-Wallet,Surabaya
+INV0360,2025-03-26,CUST280,Male,48,Toothpaste,Personal,1,59.15,0,59.15,E-Wallet,Bandung
+INV0361,2024-11-18,CUST021,Male,43,Notebook,Stationery,3,63.23,20,151.75,E-Wallet,Medan
+INV0362,2025-01-04,CUST206,Male,58,Notebook,Stationery,5,61.99,10,278.95,Cash,Surabaya
+INV0363,2025-02-14,CUST041,Male,27,Notebook,Stationery,3,39.68,0,119.04,E-Wallet,Medan
+INV0364,2025-02-24,CUST123,Male,33,Toothpaste,Personal,4,12.48,20,39.94,Credit Card,Jakarta
+INV0365,2025-01-19,CUST159,Male,25,Shampoo,Personal,2,70.45,5,133.85,E-Wallet,Surabaya
+INV0366,2024-12-24,CUST268,Female,28,Instant Noodles,Groceries,2,75.23,10,135.41,Credit Card,Jakarta
+INV0367,2025-04-06,CUST016,Female,45,Rice 5kg,Groceries,5,7.32,20,29.28,Credit Card,Jakarta
+INV0368,2025-04-29,CUST255,Female,50,Instant Noodles,Groceries,1,50.46,20,40.37,Cash,Surabaya
+INV0369,2025-04-11,CUST081,Female,24,Pen,Stationery,1,23.61,20,18.89,Cash,Jakarta
+INV0370,2025-05-11,CUST007,Male,20,Cheese,Dairy,3,38.91,5,110.89,Cash,Jakarta
+INV0371,2024-12-27,CUST284,Female,32,Instant Noodles,Groceries,2,42.21,10,75.98,E-Wallet,Jakarta
+INV0372,2024-12-24,CUST293,Female,25,Notebook,Stationery,1,18.76,20,15.01,Cash,Medan
+INV0373,2025-02-15,CUST036,Female,36,Rice 5kg,Groceries,3,9.55,15,24.35,Cash,Surabaya
+INV0374,2024-11-17,CUST103,Female,54,Rice 5kg,Groceries,5,25.02,10,112.59,Credit Card,Medan
+INV0375,2025-02-13,CUST101,Male,27,Shampoo,Personal,4,3.37,20,10.78,E-Wallet,Jakarta
+INV0376,2025-05-11,CUST172,Male,60,Milk 1L,Dairy,3,11.29,20,27.1,Cash,Medan
+INV0377,2025-02-11,CUST252,Male,27,Sneakers,Footwear,3,10.21,5,29.1,Credit Card,Medan
+INV0378,2025-01-31,CUST191,Female,65,Toothpaste,Personal,5,10.46,5,49.69,Credit Card,Medan
+INV0379,2025-04-30,CUST039,Male,45,Soap,Personal,2,24.44,10,43.99,E-Wallet,Medan
+INV0380,2025-01-09,CUST168,Female,46,Rice 5kg,Groceries,2,8.39,5,15.94,Cash,Yogyakarta
+INV0381,2025-02-26,CUST056,Male,24,T-shirt,Apparel,4,47.14,15,160.28,Cash,Yogyakarta
+INV0382,2025-02-12,CUST184,Male,46,Rice 5kg,Groceries,4,27.24,0,108.96,Cash,Bandung
+INV0383,2024-11-25,CUST156,Male,31,Instant Noodles,Groceries,2,10.03,5,19.06,E-Wallet,Medan
+INV0384,2024-12-03,CUST263,Male,61,Rice 5kg,Groceries,3,82.19,5,234.24,Cash,Medan
+INV0385,2025-01-25,CUST232,Male,24,Cheese,Dairy,1,80.59,5,76.56,Cash,Jakarta
+INV0386,2024-12-21,CUST032,Male,26,Jeans,Apparel,4,37.85,0,151.4,Credit Card,Yogyakarta
+INV0387,2025-03-28,CUST133,Male,19,Toothpaste,Personal,2,90.35,15,153.59,Cash,Jakarta
+INV0388,2024-11-16,CUST170,Male,20,Cheese,Dairy,1,17.63,20,14.1,E-Wallet,Medan
+INV0389,2025-04-20,CUST255,Male,42,Soap,Personal,4,18.11,5,68.82,Cash,Surabaya
+INV0390,2024-11-24,CUST144,Female,27,Shampoo,Personal,5,62.3,5,295.93,Credit Card,Surabaya
+INV0391,2025-02-13,CUST256,Female,53,Cheese,Dairy,1,9.68,15,8.23,Cash,Medan
+INV0392,2025-01-26,CUST103,Male,58,Notebook,Stationery,1,98.95,10,89.06,E-Wallet,Yogyakarta
+INV0393,2025-02-22,CUST249,Female,54,Notebook,Stationery,3,39.45,5,112.43,Cash,Surabaya
+INV0394,2025-01-03,CUST113,Male,35,Shampoo,Personal,4,53.41,20,170.91,Cash,Bandung
+INV0395,2025-04-08,CUST052,Male,60,Jeans,Apparel,3,53.84,0,161.52,Cash,Yogyakarta
+INV0396,2025-04-10,CUST199,Female,29,T-shirt,Apparel,2,59.66,10,107.39,Credit Card,Jakarta
+INV0397,2024-12-03,CUST181,Male,54,Jeans,Apparel,4,54.67,5,207.75,E-Wallet,Jakarta
+INV0398,2025-01-09,CUST047,Male,32,Pen,Stationery,2,2.97,15,5.05,Cash,Surabaya
+INV0399,2024-12-15,CUST104,Male,39,Sneakers,Footwear,2,91.96,10,165.53,Cash,Jakarta
+INV0400,2025-02-11,CUST076,Male,25,Notebook,Stationery,3,96.1,10,259.47,Credit Card,Medan
+INV0401,2025-04-04,CUST052,Female,37,Instant Noodles,Groceries,2,97.61,15,165.94,Credit Card,Medan
+INV0402,2025-02-17,CUST163,Male,63,Notebook,Stationery,5,78.91,5,374.82,Credit Card,Yogyakarta
+INV0403,2025-04-28,CUST090,Female,37,Sneakers,Footwear,3,13.61,0,40.83,Credit Card,Yogyakarta
+INV0404,2025-04-15,CUST201,Male,29,Pen,Stationery,3,92.18,20,221.23,Cash,Yogyakarta
+INV0405,2025-02-19,CUST054,Female,27,Instant Noodles,Groceries,1,24.56,10,22.1,Cash,Jakarta
+INV0406,2025-03-09,CUST172,Female,18,Rice 5kg,Groceries,2,25.7,0,51.4,E-Wallet,Surabaya
+INV0407,2024-11-28,CUST056,Male,21,Milk 1L,Dairy,4,73.53,5,279.41,E-Wallet,Medan
+INV0408,2024-11-30,CUST194,Female,52,Milk 1L,Dairy,1,83.05,20,66.44,Credit Card,Bandung
+INV0409,2025-01-21,CUST084,Female,22,Shampoo,Personal,3,2.99,10,8.07,Cash,Jakarta
+INV0410,2025-01-31,CUST176,Male,42,T-shirt,Apparel,1,55.16,0,55.16,E-Wallet,Yogyakarta
+INV0411,2025-03-13,CUST248,Male,45,Soap,Personal,2,61.12,15,103.9,Cash,Jakarta
+INV0412,2025-04-27,CUST052,Female,31,Jeans,Apparel,4,70.02,20,224.06,E-Wallet,Surabaya
+INV0413,2024-11-30,CUST153,Male,24,Shampoo,Personal,4,57.61,15,195.87,Cash,Jakarta
+INV0414,2025-02-18,CUST185,Male,45,Toothpaste,Personal,3,82.57,20,198.17,E-Wallet,Bandung
+INV0415,2024-12-10,CUST050,Male,31,T-shirt,Apparel,3,97.73,15,249.21,Cash,Surabaya
+INV0416,2025-02-28,CUST204,Female,49,Soap,Personal,3,10.02,20,24.05,E-Wallet,Bandung
+INV0417,2024-12-10,CUST190,Female,41,T-shirt,Apparel,4,5.42,15,18.43,E-Wallet,Surabaya
+INV0418,2024-12-21,CUST116,Female,54,Shampoo,Personal,2,75.47,0,150.94,Cash,Surabaya
+INV0419,2025-02-15,CUST278,Female,55,Jeans,Apparel,5,7.04,15,29.92,Credit Card,Medan
+INV0420,2025-03-08,CUST275,Female,54,Jeans,Apparel,4,30.59,15,104.01,Credit Card,Jakarta
+INV0421,2024-11-29,CUST258,Male,25,Cheese,Dairy,2,94.96,5,180.42,Cash,Bandung
+INV0422,2025-03-15,CUST065,Male,45,Toothpaste,Personal,4,20.99,5,79.76,Credit Card,Surabaya
+INV0423,2025-04-29,CUST164,Male,23,Milk 1L,Dairy,5,40.34,10,181.53,E-Wallet,Yogyakarta
+INV0424,2024-12-12,CUST235,Male,62,Pen,Stationery,5,52.73,15,224.1,Cash,Medan
+INV0425,2025-01-21,CUST077,Male,54,Pen,Stationery,5,76.08,0,380.4,Cash,Yogyakarta
+INV0426,2025-03-12,CUST052,Female,52,Instant Noodles,Groceries,4,27.15,15,92.31,Credit Card,Yogyakarta
+INV0427,2025-05-12,CUST243,Male,29,Rice 5kg,Groceries,4,15.24,20,48.77,Credit Card,Medan
+INV0428,2025-03-05,CUST020,Female,39,Sneakers,Footwear,2,5.88,15,10.0,E-Wallet,Surabaya
+INV0429,2025-04-07,CUST011,Female,37,Rice 5kg,Groceries,3,84.44,0,253.32,Cash,Bandung
+INV0430,2024-12-08,CUST154,Female,38,Rice 5kg,Groceries,4,60.89,0,243.56,Cash,Medan
+INV0431,2025-05-04,CUST109,Female,65,Cheese,Dairy,5,86.85,0,434.25,Credit Card,Bandung
+INV0432,2024-12-11,CUST034,Female,63,Notebook,Stationery,4,14.43,20,46.18,Credit Card,Jakarta
+INV0433,2025-03-02,CUST089,Male,30,Shampoo,Personal,2,4.27,0,8.54,E-Wallet,Bandung
+INV0434,2025-02-16,CUST141,Female,47,Notebook,Stationery,4,63.91,0,255.64,Credit Card,Jakarta
+INV0435,2025-01-25,CUST124,Female,49,Pen,Stationery,4,18.58,15,63.17,Credit Card,Yogyakarta
+INV0436,2024-12-14,CUST180,Female,28,Rice 5kg,Groceries,1,29.22,15,24.84,Cash,Bandung
+INV0437,2024-11-26,CUST293,Male,32,Soap,Personal,2,68.09,10,122.56,Credit Card,Medan
+INV0438,2025-02-09,CUST263,Male,61,Shampoo,Personal,4,91.24,5,346.71,Credit Card,Jakarta
+INV0439,2025-02-06,CUST115,Female,56,Rice 5kg,Groceries,3,42.96,15,109.55,E-Wallet,Medan
+INV0440,2025-05-14,CUST130,Male,47,Rice 5kg,Groceries,5,82.61,15,351.09,Credit Card,Jakarta
+INV0441,2024-11-18,CUST004,Female,53,Soap,Personal,5,61.3,10,275.85,Credit Card,Jakarta
+INV0442,2025-03-08,CUST247,Male,39,Rice 5kg,Groceries,3,86.29,10,232.98,Credit Card,Surabaya
+INV0443,2024-12-05,CUST097,Male,51,Jeans,Apparel,1,80.74,20,64.59,E-Wallet,Surabaya
+INV0444,2024-11-30,CUST072,Male,59,Cheese,Dairy,3,26.68,15,68.03,E-Wallet,Medan
+INV0445,2025-04-02,CUST019,Male,39,Sneakers,Footwear,2,68.95,15,117.22,Credit Card,Surabaya
+INV0446,2024-12-21,CUST260,Female,28,Soap,Personal,5,18.93,0,94.65,E-Wallet,Bandung
+INV0447,2024-11-16,CUST133,Male,61,Instant Noodles,Groceries,1,23.0,5,21.85,Credit Card,Surabaya
+INV0448,2025-03-16,CUST216,Female,41,Rice 5kg,Groceries,5,30.11,0,150.55,E-Wallet,Jakarta
+INV0449,2025-05-09,CUST299,Male,48,Jeans,Apparel,5,12.86,15,54.65,Credit Card,Surabaya
+INV0450,2025-04-27,CUST212,Male,27,T-shirt,Apparel,2,34.92,20,55.87,E-Wallet,Bandung
+INV0451,2024-11-29,CUST162,Male,23,Cheese,Dairy,3,63.47,5,180.89,E-Wallet,Jakarta
+INV0452,2025-01-22,CUST003,Female,35,Jeans,Apparel,2,58.05,5,110.29,E-Wallet,Jakarta
+INV0453,2025-01-24,CUST067,Female,58,Milk 1L,Dairy,4,43.47,15,147.8,E-Wallet,Jakarta
+INV0454,2024-12-23,CUST020,Male,64,Instant Noodles,Groceries,1,89.31,20,71.45,Cash,Jakarta
+INV0455,2025-02-13,CUST003,Male,32,Sneakers,Footwear,3,31.9,0,95.7,E-Wallet,Yogyakarta
+INV0456,2025-01-15,CUST157,Male,22,Shampoo,Personal,3,94.9,15,242.0,Credit Card,Yogyakarta
+INV0457,2025-01-25,CUST269,Female,45,Soap,Personal,2,34.93,15,59.38,E-Wallet,Bandung
+INV0458,2024-12-06,CUST085,Female,19,Jeans,Apparel,2,72.99,5,138.68,Cash,Jakarta
+INV0459,2025-02-28,CUST259,Male,25,Instant Noodles,Groceries,1,38.14,10,34.33,Credit Card,Yogyakarta
+INV0460,2025-04-24,CUST025,Male,60,Toothpaste,Personal,1,5.78,0,5.78,E-Wallet,Medan
+INV0461,2025-04-04,CUST195,Male,53,Rice 5kg,Groceries,4,70.48,5,267.82,Credit Card,Jakarta
+INV0462,2024-12-30,CUST155,Female,60,Toothpaste,Personal,5,27.73,20,110.92,Credit Card,Bandung
+INV0463,2025-05-14,CUST215,Male,50,Sneakers,Footwear,5,12.66,0,63.3,Cash,Medan
+INV0464,2025-02-25,CUST102,Male,34,Notebook,Stationery,2,36.43,15,61.93,E-Wallet,Bandung
+INV0465,2025-02-04,CUST021,Female,31,Sneakers,Footwear,4,33.73,0,134.92,Cash,Jakarta
+INV0466,2025-04-19,CUST057,Female,27,Toothpaste,Personal,5,8.43,0,42.15,E-Wallet,Bandung
+INV0467,2025-01-29,CUST234,Female,34,Cheese,Dairy,1,10.88,5,10.34,Cash,Surabaya
+INV0468,2025-01-02,CUST185,Female,45,Sneakers,Footwear,1,10.4,0,10.4,Cash,Bandung
+INV0469,2024-11-29,CUST088,Female,40,Cheese,Dairy,5,27.56,0,137.8,E-Wallet,Surabaya
+INV0470,2025-03-18,CUST094,Male,43,Milk 1L,Dairy,4,27.91,15,94.89,Credit Card,Medan
+INV0471,2024-12-24,CUST216,Male,25,T-shirt,Apparel,1,98.18,5,93.27,Cash,Medan
+INV0472,2024-12-17,CUST248,Female,29,Pen,Stationery,4,78.14,20,250.05,Cash,Bandung
+INV0473,2025-04-01,CUST248,Female,25,Milk 1L,Dairy,4,5.55,10,19.98,Credit Card,Surabaya
+INV0474,2025-03-26,CUST007,Male,60,Instant Noodles,Groceries,5,52.79,20,211.16,Cash,Medan
+INV0475,2025-04-01,CUST128,Female,40,Soap,Personal,4,15.72,20,50.3,Credit Card,Jakarta
+INV0476,2025-02-23,CUST006,Male,50,Cheese,Dairy,4,87.07,0,348.28,E-Wallet,Surabaya
+INV0477,2025-03-19,CUST124,Female,35,Shampoo,Personal,5,23.05,15,97.96,E-Wallet,Bandung
+INV0478,2025-04-05,CUST041,Female,46,Pen,Stationery,4,9.71,15,33.01,E-Wallet,Surabaya
+INV0479,2025-03-31,CUST061,Female,65,Soap,Personal,1,11.16,15,9.49,Cash,Yogyakarta
+INV0480,2025-03-21,CUST282,Male,23,Pen,Stationery,5,64.12,20,256.48,Credit Card,Bandung
+INV0481,2025-02-07,CUST234,Female,41,Shampoo,Personal,2,84.59,10,152.26,Credit Card,Yogyakarta
+INV0482,2025-02-01,CUST243,Female,63,Cheese,Dairy,1,10.65,5,10.12,Cash,Surabaya
+INV0483,2024-12-08,CUST182,Female,53,Notebook,Stationery,3,70.51,0,211.53,Cash,Medan
+INV0484,2025-02-23,CUST072,Female,24,Rice 5kg,Groceries,5,20.4,0,102.0,E-Wallet,Bandung
+INV0485,2024-12-15,CUST235,Male,63,Instant Noodles,Groceries,1,75.96,0,75.96,Credit Card,Yogyakarta
+INV0486,2025-01-15,CUST064,Female,47,Soap,Personal,5,95.66,5,454.38,E-Wallet,Jakarta
+INV0487,2025-03-14,CUST272,Male,53,Milk 1L,Dairy,5,48.81,20,195.24,Cash,Yogyakarta
+INV0488,2024-12-31,CUST089,Male,24,Milk 1L,Dairy,5,61.01,10,274.55,Credit Card,Medan
+INV0489,2024-11-24,CUST215,Male,35,Milk 1L,Dairy,3,97.08,15,247.55,Cash,Bandung
+INV0490,2024-11-16,CUST212,Female,62,Notebook,Stationery,3,71.48,20,171.55,Credit Card,Bandung
+INV0491,2025-01-08,CUST103,Male,57,Sneakers,Footwear,3,68.97,5,196.56,Credit Card,Bandung
+INV0492,2025-04-20,CUST258,Female,63,Toothpaste,Personal,3,56.67,20,136.01,Credit Card,Medan
+INV0493,2024-11-22,CUST274,Female,45,Shampoo,Personal,5,11.54,15,49.04,Cash,Jakarta
+INV0494,2025-03-21,CUST029,Male,35,T-shirt,Apparel,3,68.66,5,195.68,Cash,Surabaya
+INV0495,2024-12-17,CUST105,Male,40,Cheese,Dairy,1,61.99,20,49.59,Cash,Yogyakarta
+INV0496,2024-11-28,CUST200,Male,50,Sneakers,Footwear,3,69.6,0,208.8,E-Wallet,Medan
+INV0497,2025-01-14,CUST214,Female,53,Shampoo,Personal,1,74.62,5,70.89,Credit Card,Medan
+INV0498,2025-05-12,CUST116,Female,55,Notebook,Stationery,5,20.45,5,97.14,E-Wallet,Medan
+INV0499,2024-12-04,CUST091,Male,29,T-shirt,Apparel,5,12.82,0,64.1,E-Wallet,Surabaya
+INV0500,2025-03-29,CUST285,Female,26,T-shirt,Apparel,5,84.76,0,423.8,E-Wallet,Medan
+INV0501,2024-12-05,CUST080,Male,27,Instant Noodles,Groceries,5,6.03,20,24.12,Credit Card,Surabaya
+INV0502,2025-04-19,CUST252,Female,22,Sneakers,Footwear,3,53.01,5,151.08,Credit Card,Jakarta
+INV0503,2024-12-02,CUST259,Male,44,Notebook,Stationery,5,40.94,10,184.23,Cash,Bandung
+INV0504,2025-03-18,CUST170,Female,41,Rice 5kg,Groceries,2,95.08,20,152.13,Credit Card,Medan
+INV0505,2024-12-14,CUST288,Male,25,Soap,Personal,3,45.12,20,108.29,Credit Card,Bandung
+INV0506,2025-04-24,CUST021,Female,42,Toothpaste,Personal,4,26.4,10,95.04,Cash,Yogyakarta
+INV0507,2024-11-16,CUST192,Female,49,Shampoo,Personal,3,89.93,5,256.3,E-Wallet,Yogyakarta
+INV0508,2024-12-14,CUST043,Male,28,Notebook,Stationery,5,1.73,0,8.65,Cash,Bandung
+INV0509,2025-03-06,CUST218,Male,31,Notebook,Stationery,4,65.01,0,260.04,Credit Card,Bandung
+INV0510,2024-12-02,CUST013,Female,63,Instant Noodles,Groceries,1,9.66,0,9.66,Cash,Surabaya
+INV0511,2025-05-13,CUST286,Male,54,Jeans,Apparel,3,41.36,15,105.47,Credit Card,Medan
+INV0512,2025-01-02,CUST222,Female,19,Milk 1L,Dairy,1,53.95,20,43.16,Cash,Yogyakarta
+INV0513,2025-04-25,CUST024,Male,40,Notebook,Stationery,1,29.69,10,26.72,Credit Card,Jakarta
+INV0514,2025-02-14,CUST145,Female,42,Milk 1L,Dairy,1,47.92,20,38.34,Cash,Bandung
+INV0515,2024-12-07,CUST201,Female,58,T-shirt,Apparel,3,68.05,10,183.73,Cash,Yogyakarta
+INV0516,2025-01-26,CUST285,Male,25,Shampoo,Personal,1,57.7,15,49.05,Credit Card,Yogyakarta
+INV0517,2025-05-01,CUST044,Female,31,Sneakers,Footwear,3,21.96,20,52.7,Cash,Bandung
+INV0518,2025-05-03,CUST095,Male,57,Rice 5kg,Groceries,2,12.35,20,19.76,Cash,Yogyakarta
+INV0519,2025-02-04,CUST237,Male,36,Soap,Personal,1,25.82,5,24.53,Credit Card,Yogyakarta
+INV0520,2025-03-01,CUST250,Female,40,T-shirt,Apparel,2,10.9,20,17.44,Cash,Bandung
+INV0521,2024-11-22,CUST163,Female,46,Instant Noodles,Groceries,5,66.28,20,265.12,Cash,Yogyakarta
+INV0522,2024-12-03,CUST291,Female,38,Milk 1L,Dairy,2,1.48,5,2.81,Cash,Medan
+INV0523,2024-11-27,CUST142,Female,26,Soap,Personal,3,87.91,15,224.17,E-Wallet,Surabaya
+INV0524,2025-03-28,CUST157,Female,53,Toothpaste,Personal,2,64.91,0,129.82,E-Wallet,Bandung
+INV0525,2025-03-15,CUST276,Male,34,Sneakers,Footwear,1,73.02,0,73.02,Credit Card,Jakarta
+INV0526,2025-03-16,CUST298,Female,55,Jeans,Apparel,1,55.61,20,44.49,Credit Card,Medan
+INV0527,2025-04-20,CUST077,Female,43,Jeans,Apparel,5,73.59,10,331.16,Cash,Medan
+INV0528,2024-12-03,CUST257,Male,43,Instant Noodles,Groceries,5,2.05,5,9.74,Credit Card,Bandung
+INV0529,2024-12-08,CUST264,Male,46,T-shirt,Apparel,2,57.07,20,91.31,Credit Card,Bandung
+INV0530,2024-11-14,CUST248,Female,20,Jeans,Apparel,4,23.94,10,86.18,E-Wallet,Bandung
+INV0531,2025-05-05,CUST022,Male,51,Instant Noodles,Groceries,4,47.5,15,161.5,Cash,Jakarta
+INV0532,2025-01-06,CUST166,Male,63,Notebook,Stationery,3,83.65,10,225.86,Credit Card,Yogyakarta
+INV0533,2024-11-16,CUST292,Male,42,Soap,Personal,4,37.16,0,148.64,Credit Card,Surabaya
+INV0534,2025-05-07,CUST193,Male,51,Milk 1L,Dairy,3,81.91,10,221.16,E-Wallet,Medan
+INV0535,2024-11-29,CUST004,Male,46,T-shirt,Apparel,2,8.63,10,15.53,Cash,Bandung
+INV0536,2025-05-01,CUST096,Male,41,Pen,Stationery,1,66.45,15,56.48,E-Wallet,Jakarta
+INV0537,2025-04-17,CUST247,Female,48,Jeans,Apparel,5,16.96,15,72.08,Cash,Bandung
+INV0538,2025-03-20,CUST023,Male,54,Pen,Stationery,2,14.34,20,22.94,Cash,Yogyakarta
+INV0539,2025-02-04,CUST076,Male,28,Rice 5kg,Groceries,2,52.15,15,88.66,Credit Card,Yogyakarta
+INV0540,2024-12-31,CUST010,Female,23,Jeans,Apparel,4,61.05,15,207.57,E-Wallet,Bandung
+INV0541,2024-12-25,CUST113,Female,56,T-shirt,Apparel,5,82.22,5,390.55,Credit Card,Yogyakarta
+INV0542,2025-01-14,CUST136,Male,64,Soap,Personal,3,92.31,20,221.54,Credit Card,Jakarta
+INV0543,2025-01-26,CUST118,Female,42,T-shirt,Apparel,1,2.64,20,2.11,Credit Card,Medan
+INV0544,2025-03-28,CUST077,Male,29,Cheese,Dairy,5,60.38,20,241.52,Credit Card,Jakarta
+INV0545,2025-02-04,CUST048,Female,60,T-shirt,Apparel,5,54.39,0,271.95,Credit Card,Medan
+INV0546,2024-12-19,CUST268,Female,41,Shampoo,Personal,5,43.47,15,184.75,E-Wallet,Surabaya
+INV0547,2025-01-17,CUST295,Male,45,T-shirt,Apparel,3,48.24,5,137.48,Cash,Surabaya
+INV0548,2025-05-12,CUST279,Female,34,Jeans,Apparel,1,71.21,0,71.21,Credit Card,Yogyakarta
+INV0549,2025-05-11,CUST061,Male,42,Soap,Personal,2,69.09,10,124.36,E-Wallet,Surabaya
+INV0550,2025-01-21,CUST055,Male,45,Soap,Personal,5,26.11,20,104.44,E-Wallet,Yogyakarta
+INV0551,2024-11-20,CUST188,Female,61,Milk 1L,Dairy,2,41.91,20,67.06,E-Wallet,Bandung
+INV0552,2025-03-31,CUST190,Female,34,Rice 5kg,Groceries,5,35.09,15,149.13,Credit Card,Bandung
+INV0553,2025-02-11,CUST061,Male,46,Sneakers,Footwear,2,10.93,20,17.49,E-Wallet,Surabaya
+INV0554,2025-03-19,CUST282,Male,28,Milk 1L,Dairy,1,80.63,5,76.6,E-Wallet,Yogyakarta
+INV0555,2025-05-13,CUST223,Male,22,Rice 5kg,Groceries,2,37.71,20,60.34,Cash,Medan
+INV0556,2024-12-07,CUST206,Female,63,Pen,Stationery,1,94.63,5,89.9,Credit Card,Medan
+INV0557,2025-01-16,CUST225,Male,30,Soap,Personal,5,29.31,0,146.55,Credit Card,Yogyakarta
+INV0558,2025-03-07,CUST265,Male,57,T-shirt,Apparel,1,36.61,0,36.61,Cash,Jakarta
+INV0559,2025-04-01,CUST142,Female,40,Soap,Personal,4,41.14,5,156.33,Credit Card,Jakarta
+INV0560,2025-03-10,CUST036,Male,53,Rice 5kg,Groceries,5,91.59,10,412.16,E-Wallet,Surabaya
+INV0561,2025-04-11,CUST116,Male,47,Milk 1L,Dairy,5,1.46,5,6.93,E-Wallet,Yogyakarta
+INV0562,2024-11-22,CUST055,Male,50,Rice 5kg,Groceries,3,94.75,20,227.4,E-Wallet,Yogyakarta
+INV0563,2025-02-13,CUST295,Female,62,Cheese,Dairy,4,56.75,5,215.65,E-Wallet,Medan
+INV0564,2024-12-23,CUST236,Male,48,Toothpaste,Personal,3,7.69,5,21.92,Credit Card,Bandung
+INV0565,2025-05-06,CUST162,Female,40,Notebook,Stationery,5,1.96,10,8.82,Cash,Surabaya
+INV0566,2024-12-13,CUST048,Female,61,Sneakers,Footwear,3,8.53,5,24.31,E-Wallet,Surabaya
+INV0567,2025-02-15,CUST182,Male,54,Rice 5kg,Groceries,2,94.76,5,180.04,E-Wallet,Bandung
+INV0568,2024-11-28,CUST121,Male,34,Jeans,Apparel,2,21.07,5,40.03,Credit Card,Surabaya
+INV0569,2024-12-27,CUST080,Male,25,Toothpaste,Personal,4,61.77,20,197.66,Cash,Medan
+INV0570,2024-11-14,CUST191,Female,49,Pen,Stationery,3,49.59,20,119.02,E-Wallet,Medan
+INV0571,2025-03-06,CUST114,Male,21,Notebook,Stationery,4,48.35,20,154.72,Cash,Yogyakarta
+INV0572,2025-04-27,CUST178,Female,61,T-shirt,Apparel,4,97.67,20,312.54,E-Wallet,Surabaya
+INV0573,2025-03-08,CUST005,Male,61,Jeans,Apparel,4,58.52,10,210.67,E-Wallet,Yogyakarta
+INV0574,2024-12-31,CUST133,Male,53,Rice 5kg,Groceries,2,27.67,20,44.27,E-Wallet,Surabaya
+INV0575,2025-02-13,CUST095,Female,45,Jeans,Apparel,4,70.37,10,253.33,E-Wallet,Medan
+INV0576,2025-01-18,CUST144,Female,29,Pen,Stationery,2,97.95,5,186.1,Cash,Surabaya
+INV0577,2025-01-28,CUST121,Female,42,Jeans,Apparel,2,80.2,5,152.38,E-Wallet,Jakarta
+INV0578,2024-11-25,CUST091,Female,49,T-shirt,Apparel,5,53.86,10,242.37,E-Wallet,Surabaya
+INV0579,2024-12-07,CUST129,Male,43,Toothpaste,Personal,2,6.94,10,12.49,E-Wallet,Jakarta
+INV0580,2025-02-14,CUST231,Female,34,Instant Noodles,Groceries,3,56.47,10,152.47,E-Wallet,Jakarta
+INV0581,2024-12-28,CUST211,Male,40,Soap,Personal,5,20.7,20,82.8,Credit Card,Yogyakarta
+INV0582,2024-12-23,CUST090,Female,40,Instant Noodles,Groceries,5,49.26,15,209.35,Cash,Medan
+INV0583,2025-03-23,CUST147,Female,58,T-shirt,Apparel,2,64.42,10,115.96,E-Wallet,Yogyakarta
+INV0584,2025-03-31,CUST293,Female,22,Toothpaste,Personal,2,35.02,10,63.04,E-Wallet,Surabaya
+INV0585,2025-01-22,CUST137,Female,35,Cheese,Dairy,3,75.04,20,180.1,E-Wallet,Medan
+INV0586,2025-03-03,CUST086,Male,19,T-shirt,Apparel,2,66.54,0,133.08,Cash,Bandung
+INV0587,2025-04-08,CUST204,Male,24,Toothpaste,Personal,4,55.29,0,221.16,E-Wallet,Yogyakarta
+INV0588,2025-04-17,CUST043,Male,34,Pen,Stationery,2,9.35,15,15.89,E-Wallet,Bandung
+INV0589,2025-04-28,CUST127,Female,46,Soap,Personal,2,14.0,5,26.6,Cash,Jakarta
+INV0590,2025-04-13,CUST183,Female,48,Cheese,Dairy,5,93.55,20,374.2,E-Wallet,Bandung
+INV0591,2025-03-06,CUST277,Male,55,Pen,Stationery,4,63.47,20,203.1,E-Wallet,Yogyakarta
+INV0592,2025-03-24,CUST274,Female,40,Cheese,Dairy,5,23.49,0,117.45,E-Wallet,Surabaya
+INV0593,2025-01-11,CUST188,Female,34,T-shirt,Apparel,3,2.05,20,4.92,Cash,Surabaya
+INV0594,2025-02-13,CUST147,Female,52,Shampoo,Personal,4,94.75,15,322.15,E-Wallet,Jakarta
+INV0595,2024-12-04,CUST221,Female,56,Jeans,Apparel,1,55.27,5,52.51,E-Wallet,Yogyakarta
+INV0596,2024-11-25,CUST224,Female,33,T-shirt,Apparel,4,83.01,5,315.44,E-Wallet,Jakarta
+INV0597,2024-11-28,CUST217,Male,51,Pen,Stationery,3,29.18,20,70.03,E-Wallet,Medan
+INV0598,2024-12-27,CUST097,Male,29,T-shirt,Apparel,3,11.93,15,30.42,Credit Card,Medan
+INV0599,2024-12-01,CUST140,Female,30,Instant Noodles,Groceries,1,16.06,20,12.85,Cash,Bandung
+INV0600,2024-11-29,CUST053,Female,35,T-shirt,Apparel,4,72.98,5,277.32,Cash,Bandung
+INV0601,2025-04-09,CUST008,Female,31,Instant Noodles,Groceries,4,31.85,15,108.29,E-Wallet,Medan
+INV0602,2024-12-11,CUST017,Female,23,T-shirt,Apparel,1,27.38,15,23.27,Cash,Yogyakarta
+INV0603,2025-02-01,CUST241,Male,30,Rice 5kg,Groceries,4,83.0,0,332.0,Credit Card,Bandung
+INV0604,2025-02-12,CUST198,Female,33,Sneakers,Footwear,1,20.72,0,20.72,Credit Card,Bandung
+INV0605,2024-12-05,CUST243,Female,61,Rice 5kg,Groceries,3,16.7,0,50.1,Credit Card,Yogyakarta
+INV0606,2025-02-27,CUST267,Male,34,Cheese,Dairy,3,20.67,0,62.01,Credit Card,Bandung
+INV0607,2025-01-14,CUST058,Male,58,Milk 1L,Dairy,3,2.49,10,6.72,Credit Card,Jakarta
+INV0608,2025-03-04,CUST203,Male,18,Shampoo,Personal,5,78.56,15,333.88,Credit Card,Yogyakarta
+INV0609,2025-05-12,CUST080,Female,23,Jeans,Apparel,2,50.49,20,80.78,E-Wallet,Jakarta
+INV0610,2025-03-08,CUST031,Female,59,T-shirt,Apparel,5,79.36,5,376.96,E-Wallet,Bandung
+INV0611,2025-03-22,CUST163,Female,46,Sneakers,Footwear,2,3.11,15,5.29,E-Wallet,Bandung
+INV0612,2025-03-11,CUST129,Male,49,Sneakers,Footwear,4,56.34,20,180.29,Credit Card,Medan
+INV0613,2025-02-26,CUST098,Male,52,Instant Noodles,Groceries,3,73.51,10,198.48,Credit Card,Yogyakarta
+INV0614,2024-12-20,CUST083,Male,51,T-shirt,Apparel,4,30.27,10,108.97,Credit Card,Surabaya
+INV0615,2025-02-24,CUST233,Male,58,Notebook,Stationery,4,73.63,0,294.52,Credit Card,Surabaya
+INV0616,2025-03-19,CUST123,Female,64,Toothpaste,Personal,5,82.09,5,389.93,Credit Card,Medan
+INV0617,2025-01-29,CUST283,Male,57,Rice 5kg,Groceries,3,41.57,10,112.24,Cash,Jakarta
+INV0618,2024-12-08,CUST268,Male,20,T-shirt,Apparel,2,87.48,5,166.21,Cash,Medan
+INV0619,2025-01-14,CUST099,Male,20,Pen,Stationery,4,66.13,20,211.62,Credit Card,Yogyakarta
+INV0620,2025-03-15,CUST132,Male,41,Jeans,Apparel,5,72.07,0,360.35,Cash,Medan
+INV0621,2025-04-21,CUST041,Female,58,Shampoo,Personal,3,56.24,15,143.41,E-Wallet,Jakarta
+INV0622,2024-11-22,CUST137,Male,64,Toothpaste,Personal,3,8.72,5,24.85,Credit Card,Jakarta
+INV0623,2025-03-02,CUST052,Male,52,Milk 1L,Dairy,2,20.12,5,38.23,Credit Card,Bandung
+INV0624,2024-12-26,CUST286,Female,65,Toothpaste,Personal,5,36.44,15,154.87,Credit Card,Medan
+INV0625,2025-04-28,CUST054,Male,29,Notebook,Stationery,4,50.96,5,193.65,Credit Card,Yogyakarta
+INV0626,2025-04-02,CUST227,Female,38,Notebook,Stationery,3,84.64,15,215.83,Credit Card,Medan
+INV0627,2025-05-11,CUST166,Male,54,Notebook,Stationery,2,38.13,20,61.01,Credit Card,Surabaya
+INV0628,2025-03-25,CUST185,Female,46,Milk 1L,Dairy,1,72.91,10,65.62,Credit Card,Jakarta
+INV0629,2025-01-17,CUST266,Male,37,Shampoo,Personal,3,98.46,5,280.61,E-Wallet,Jakarta
+INV0630,2025-01-05,CUST142,Male,24,Shampoo,Personal,4,36.21,5,137.6,E-Wallet,Surabaya
+INV0631,2024-12-28,CUST299,Male,32,Rice 5kg,Groceries,3,10.1,15,25.75,Credit Card,Bandung
+INV0632,2025-02-02,CUST040,Female,48,T-shirt,Apparel,4,82.74,20,264.77,Cash,Yogyakarta
+INV0633,2024-11-26,CUST154,Male,64,Pen,Stationery,4,8.77,0,35.08,E-Wallet,Surabaya
+INV0634,2025-04-12,CUST223,Female,25,Jeans,Apparel,5,92.94,15,395.0,Cash,Surabaya
+INV0635,2024-12-12,CUST269,Male,38,Notebook,Stationery,5,15.81,20,63.24,Credit Card,Bandung
+INV0636,2025-05-08,CUST079,Male,61,Sneakers,Footwear,4,97.13,20,310.82,Credit Card,Yogyakarta
+INV0637,2025-04-19,CUST047,Male,45,Rice 5kg,Groceries,4,15.65,10,56.34,Cash,Medan
+INV0638,2025-01-11,CUST293,Male,53,Milk 1L,Dairy,3,9.42,20,22.61,E-Wallet,Bandung
+INV0639,2025-04-25,CUST070,Female,53,Jeans,Apparel,4,40.14,20,128.45,Cash,Yogyakarta
+INV0640,2025-04-09,CUST269,Male,33,Toothpaste,Personal,3,77.9,10,210.33,Credit Card,Yogyakarta
+INV0641,2025-04-23,CUST046,Male,60,Milk 1L,Dairy,4,37.16,5,141.21,E-Wallet,Surabaya
+INV0642,2025-05-01,CUST013,Female,28,Instant Noodles,Groceries,5,82.34,15,349.95,Credit Card,Bandung
+INV0643,2025-03-06,CUST226,Male,32,Jeans,Apparel,3,16.44,0,49.32,Cash,Jakarta
+INV0644,2025-02-27,CUST125,Male,36,Shampoo,Personal,3,69.69,0,209.07,E-Wallet,Medan
+INV0645,2025-03-30,CUST242,Male,39,Jeans,Apparel,5,21.98,20,87.92,Credit Card,Surabaya
+INV0646,2025-04-06,CUST281,Female,57,Sneakers,Footwear,2,69.81,0,139.62,E-Wallet,Yogyakarta
+INV0647,2024-12-03,CUST270,Male,34,T-shirt,Apparel,1,29.12,20,23.3,E-Wallet,Jakarta
+INV0648,2024-11-25,CUST239,Male,22,Milk 1L,Dairy,3,66.64,10,179.93,Cash,Jakarta
+INV0649,2024-12-20,CUST150,Female,32,Milk 1L,Dairy,5,97.68,0,488.4,E-Wallet,Medan
+INV0650,2025-04-19,CUST273,Male,29,Jeans,Apparel,5,96.71,20,386.84,Credit Card,Jakarta
+INV0651,2025-04-23,CUST021,Male,51,Rice 5kg,Groceries,3,49.5,5,141.07,Cash,Surabaya
+INV0652,2025-03-03,CUST181,Female,58,Rice 5kg,Groceries,2,99.6,20,159.36,E-Wallet,Jakarta
+INV0653,2025-04-01,CUST132,Female,19,Notebook,Stationery,3,23.33,10,62.99,E-Wallet,Bandung
+INV0654,2025-04-29,CUST045,Female,51,Soap,Personal,5,87.4,5,415.15,E-Wallet,Bandung
+INV0655,2025-01-25,CUST294,Male,45,Rice 5kg,Groceries,5,33.6,20,134.4,Cash,Bandung
+INV0656,2025-05-03,CUST071,Male,26,Rice 5kg,Groceries,5,91.05,15,386.96,Cash,Yogyakarta
+INV0657,2025-01-06,CUST081,Female,22,Notebook,Stationery,5,94.91,0,474.55,Cash,Surabaya
+INV0658,2024-11-25,CUST075,Male,38,Milk 1L,Dairy,4,31.03,10,111.71,Cash,Bandung
+INV0659,2025-03-20,CUST055,Male,29,Shampoo,Personal,5,62.08,20,248.32,Credit Card,Yogyakarta
+INV0660,2025-05-03,CUST119,Male,32,Soap,Personal,1,36.57,15,31.08,Cash,Yogyakarta
+INV0661,2025-04-02,CUST241,Female,29,Milk 1L,Dairy,4,47.91,5,182.06,Cash,Bandung
+INV0662,2025-03-31,CUST017,Female,18,Rice 5kg,Groceries,4,23.03,5,87.51,Cash,Jakarta
+INV0663,2024-12-23,CUST091,Female,57,Cheese,Dairy,3,86.81,5,247.41,E-Wallet,Medan
+INV0664,2025-02-19,CUST022,Female,64,Instant Noodles,Groceries,4,61.54,20,196.93,Credit Card,Yogyakarta
+INV0665,2025-02-17,CUST269,Male,51,Toothpaste,Personal,4,46.23,0,184.92,Cash,Yogyakarta
+INV0666,2025-04-05,CUST276,Female,65,Shampoo,Personal,5,39.35,0,196.75,Cash,Surabaya
+INV0667,2025-04-07,CUST226,Female,37,Rice 5kg,Groceries,4,17.48,10,62.93,Credit Card,Jakarta
+INV0668,2025-05-15,CUST265,Male,47,Soap,Personal,4,9.95,20,31.84,Cash,Bandung
+INV0669,2024-11-17,CUST300,Male,43,Milk 1L,Dairy,3,45.64,5,130.07,E-Wallet,Yogyakarta
+INV0670,2025-02-10,CUST104,Female,23,Rice 5kg,Groceries,3,69.48,5,198.02,Credit Card,Jakarta
+INV0671,2024-12-25,CUST047,Male,63,Cheese,Dairy,3,9.45,15,24.1,Credit Card,Yogyakarta
+INV0672,2025-03-05,CUST082,Female,53,Milk 1L,Dairy,1,77.06,10,69.35,Credit Card,Bandung
+INV0673,2024-11-17,CUST084,Male,29,Sneakers,Footwear,1,42.54,10,38.29,Credit Card,Medan
+INV0674,2025-01-28,CUST148,Male,25,T-shirt,Apparel,2,1.35,10,2.43,Cash,Medan
+INV0675,2024-11-24,CUST255,Female,52,Shampoo,Personal,5,88.39,5,419.85,Cash,Yogyakarta
+INV0676,2025-03-29,CUST244,Female,44,Cheese,Dairy,1,60.52,0,60.52,Cash,Yogyakarta
+INV0677,2025-01-06,CUST143,Male,21,T-shirt,Apparel,2,6.45,10,11.61,Cash,Bandung
+INV0678,2025-04-08,CUST017,Female,39,Toothpaste,Personal,1,11.78,5,11.19,Cash,Surabaya
+INV0679,2025-03-26,CUST294,Male,47,Sneakers,Footwear,5,36.66,0,183.3,Cash,Surabaya
+INV0680,2024-11-30,CUST166,Female,42,Toothpaste,Personal,4,84.49,0,337.96,E-Wallet,Medan
+INV0681,2025-04-09,CUST069,Male,62,Rice 5kg,Groceries,3,53.18,20,127.63,Cash,Bandung
+INV0682,2024-12-23,CUST030,Male,54,Sneakers,Footwear,5,98.73,15,419.6,Credit Card,Yogyakarta
+INV0683,2024-11-30,CUST148,Female,56,Instant Noodles,Groceries,3,53.01,20,127.22,E-Wallet,Bandung
+INV0684,2025-03-19,CUST289,Female,51,Sneakers,Footwear,4,49.76,5,189.09,Credit Card,Bandung
+INV0685,2024-11-25,CUST149,Male,18,Toothpaste,Personal,1,47.02,0,47.02,Credit Card,Bandung
+INV0686,2025-04-12,CUST213,Female,20,Instant Noodles,Groceries,3,56.48,5,160.97,Cash,Bandung
+INV0687,2025-04-06,CUST145,Female,22,Rice 5kg,Groceries,3,51.16,10,138.13,Cash,Jakarta
+INV0688,2024-11-25,CUST171,Female,43,Sneakers,Footwear,5,61.98,0,309.9,Cash,Bandung
+INV0689,2025-01-22,CUST170,Female,61,Cheese,Dairy,4,79.93,5,303.73,E-Wallet,Bandung
+INV0690,2024-12-22,CUST236,Female,47,Milk 1L,Dairy,1,83.68,10,75.31,Credit Card,Surabaya
+INV0691,2025-03-18,CUST285,Male,31,Pen,Stationery,3,80.15,10,216.41,Cash,Bandung
+INV0692,2025-03-29,CUST144,Male,39,Milk 1L,Dairy,5,84.4,20,337.6,Credit Card,Medan
+INV0693,2025-05-02,CUST096,Male,37,Sneakers,Footwear,3,71.27,10,192.43,E-Wallet,Jakarta
+INV0694,2024-12-16,CUST255,Male,41,Cheese,Dairy,3,22.4,10,60.48,Cash,Jakarta
+INV0695,2025-04-14,CUST192,Male,30,Toothpaste,Personal,4,51.09,15,173.71,Credit Card,Bandung
+INV0696,2025-03-12,CUST098,Female,48,Sneakers,Footwear,5,31.73,10,142.78,Cash,Jakarta
+INV0697,2025-04-19,CUST265,Male,31,Sneakers,Footwear,1,46.48,20,37.18,Cash,Jakarta
+INV0698,2025-02-21,CUST160,Male,61,Pen,Stationery,1,34.0,0,34.0,Cash,Yogyakarta
+INV0699,2025-03-04,CUST160,Male,54,Rice 5kg,Groceries,2,32.77,5,62.26,E-Wallet,Surabaya
+INV0700,2025-04-09,CUST273,Female,46,Soap,Personal,1,27.99,5,26.59,E-Wallet,Jakarta
+INV0701,2025-01-01,CUST008,Male,31,Notebook,Stationery,3,55.39,10,149.55,Cash,Surabaya
+INV0702,2024-12-30,CUST294,Male,28,Toothpaste,Personal,3,61.71,10,166.62,Credit Card,Medan
+INV0703,2025-02-05,CUST026,Male,19,Cheese,Dairy,1,11.49,0,11.49,Cash,Medan
+INV0704,2025-04-10,CUST201,Male,63,Pen,Stationery,5,63.32,15,269.11,Credit Card,Surabaya
+INV0705,2025-02-24,CUST160,Female,30,Sneakers,Footwear,5,8.78,15,37.31,Credit Card,Bandung
+INV0706,2025-05-11,CUST048,Female,24,Cheese,Dairy,3,68.76,15,175.34,E-Wallet,Bandung
+INV0707,2025-05-03,CUST115,Male,57,Rice 5kg,Groceries,3,39.82,10,107.51,E-Wallet,Medan
+INV0708,2025-04-06,CUST250,Male,22,Cheese,Dairy,1,35.79,15,30.42,Cash,Surabaya
+INV0709,2025-02-09,CUST179,Male,50,Toothpaste,Personal,4,81.94,0,327.76,E-Wallet,Yogyakarta
+INV0710,2025-04-09,CUST037,Female,52,Cheese,Dairy,4,59.46,5,225.95,Credit Card,Bandung
+INV0711,2024-11-26,CUST281,Male,48,Milk 1L,Dairy,1,34.73,20,27.78,E-Wallet,Medan
+INV0712,2025-05-11,CUST291,Female,52,Sneakers,Footwear,2,18.14,0,36.28,Credit Card,Yogyakarta
+INV0713,2024-12-02,CUST250,Male,55,Pen,Stationery,4,33.21,0,132.84,E-Wallet,Bandung
+INV0714,2025-04-24,CUST158,Female,22,Pen,Stationery,1,68.87,20,55.1,E-Wallet,Surabaya
+INV0715,2024-12-15,CUST254,Male,23,Jeans,Apparel,2,88.84,0,177.68,Cash,Bandung
+INV0716,2025-03-27,CUST232,Female,42,Pen,Stationery,5,45.27,5,215.03,Credit Card,Surabaya
+INV0717,2025-04-25,CUST154,Female,45,Sneakers,Footwear,3,99.04,20,237.7,Cash,Yogyakarta
+INV0718,2025-01-26,CUST262,Female,26,Rice 5kg,Groceries,1,37.55,20,30.04,Cash,Jakarta
+INV0719,2025-04-25,CUST287,Female,25,Rice 5kg,Groceries,1,24.29,20,19.43,E-Wallet,Surabaya
+INV0720,2024-12-27,CUST196,Female,42,Milk 1L,Dairy,5,21.91,5,104.07,E-Wallet,Bandung
+INV0721,2025-02-14,CUST097,Female,41,Milk 1L,Dairy,2,29.56,5,56.16,Cash,Jakarta
+INV0722,2025-01-19,CUST037,Male,27,Sneakers,Footwear,4,66.13,5,251.29,Cash,Bandung
+INV0723,2025-03-11,CUST213,Female,62,Pen,Stationery,4,62.7,15,213.18,Credit Card,Medan
+INV0724,2025-03-09,CUST283,Female,42,Instant Noodles,Groceries,2,19.39,20,31.02,Cash,Yogyakarta
+INV0725,2024-11-24,CUST256,Male,63,Notebook,Stationery,3,41.67,20,100.01,Credit Card,Surabaya
+INV0726,2024-12-27,CUST018,Male,54,Cheese,Dairy,3,12.2,15,31.11,Credit Card,Jakarta
+INV0727,2024-12-19,CUST073,Female,47,Notebook,Stationery,1,52.81,20,42.25,Cash,Bandung
+INV0728,2025-02-09,CUST242,Male,61,Soap,Personal,5,80.01,10,360.05,Credit Card,Jakarta
+INV0729,2024-12-31,CUST176,Male,48,Cheese,Dairy,5,90.7,20,362.8,Credit Card,Surabaya
+INV0730,2024-11-22,CUST216,Female,36,Rice 5kg,Groceries,2,4.5,20,7.2,Credit Card,Surabaya
+INV0731,2025-02-15,CUST289,Female,21,Soap,Personal,4,58.24,20,186.37,Cash,Surabaya
+INV0732,2025-01-16,CUST014,Female,49,Toothpaste,Personal,2,51.05,10,91.89,E-Wallet,Bandung
+INV0733,2025-03-15,CUST144,Female,34,Shampoo,Personal,1,60.78,20,48.62,Credit Card,Bandung
+INV0734,2024-12-04,CUST229,Female,29,Rice 5kg,Groceries,2,49.01,20,78.42,Cash,Surabaya
+INV0735,2025-03-04,CUST044,Male,56,T-shirt,Apparel,4,75.52,15,256.77,E-Wallet,Bandung
+INV0736,2025-01-18,CUST226,Male,31,Pen,Stationery,3,6.38,10,17.23,Cash,Jakarta
+INV0737,2025-01-27,CUST086,Female,43,Cheese,Dairy,3,48.15,20,115.56,Cash,Medan
+INV0738,2025-01-18,CUST200,Female,34,T-shirt,Apparel,5,87.16,0,435.8,E-Wallet,Medan
+INV0739,2025-03-21,CUST196,Female,51,Soap,Personal,1,10.64,20,8.51,Credit Card,Surabaya
+INV0740,2025-02-01,CUST222,Female,39,Rice 5kg,Groceries,3,80.43,10,217.16,Credit Card,Yogyakarta
+INV0741,2025-03-08,CUST201,Female,61,Sneakers,Footwear,2,73.7,20,117.92,Cash,Yogyakarta
+INV0742,2025-05-07,CUST173,Male,38,Notebook,Stationery,1,67.61,0,67.61,Cash,Medan
+INV0743,2024-12-20,CUST051,Male,61,Cheese,Dairy,3,22.72,10,61.34,E-Wallet,Bandung
+INV0744,2024-11-23,CUST018,Male,57,Toothpaste,Personal,1,93.91,5,89.21,Credit Card,Jakarta
+INV0745,2025-02-25,CUST062,Male,56,T-shirt,Apparel,4,65.98,20,211.14,Cash,Jakarta
+INV0746,2025-04-13,CUST095,Female,36,Cheese,Dairy,1,64.24,10,57.82,E-Wallet,Surabaya
+INV0747,2025-01-13,CUST132,Male,22,Rice 5kg,Groceries,1,38.9,10,35.01,Cash,Surabaya
+INV0748,2025-03-02,CUST136,Male,46,Toothpaste,Personal,4,97.96,5,372.25,Credit Card,Medan
+INV0749,2025-01-05,CUST092,Female,24,T-shirt,Apparel,5,77.1,5,366.22,Credit Card,Jakarta
+INV0750,2024-12-11,CUST227,Female,24,Shampoo,Personal,1,7.97,10,7.17,E-Wallet,Jakarta
+INV0751,2024-12-09,CUST255,Male,59,Soap,Personal,1,93.36,15,79.36,E-Wallet,Bandung
+INV0752,2025-04-01,CUST169,Female,54,Shampoo,Personal,5,71.05,15,301.96,E-Wallet,Medan
+INV0753,2025-01-29,CUST207,Male,52,Jeans,Apparel,1,39.06,15,33.2,Cash,Yogyakarta
+INV0754,2024-12-22,CUST275,Female,39,Soap,Personal,3,40.66,0,121.98,E-Wallet,Yogyakarta
+INV0755,2025-01-04,CUST175,Male,47,Rice 5kg,Groceries,2,18.49,0,36.98,E-Wallet,Bandung
+INV0756,2024-12-08,CUST154,Female,24,Soap,Personal,3,49.16,15,125.36,Credit Card,Bandung
+INV0757,2025-03-14,CUST072,Male,30,Shampoo,Personal,5,24.61,15,104.59,Cash,Yogyakarta
+INV0758,2025-01-22,CUST158,Female,52,Cheese,Dairy,1,4.67,0,4.67,E-Wallet,Jakarta
+INV0759,2024-12-15,CUST208,Male,31,Soap,Personal,5,46.38,20,185.52,Cash,Yogyakarta
+INV0760,2024-12-07,CUST120,Male,20,Sneakers,Footwear,2,49.4,0,98.8,E-Wallet,Yogyakarta
+INV0761,2025-02-15,CUST024,Male,62,Soap,Personal,2,2.42,0,4.84,E-Wallet,Jakarta
+INV0762,2025-04-28,CUST234,Male,55,Toothpaste,Personal,1,12.3,20,9.84,Credit Card,Bandung
+INV0763,2025-02-26,CUST033,Male,45,Instant Noodles,Groceries,4,33.1,20,105.92,Credit Card,Bandung
+INV0764,2024-12-25,CUST165,Male,20,Pen,Stationery,2,34.21,0,68.42,E-Wallet,Bandung
+INV0765,2024-12-22,CUST213,Male,62,Instant Noodles,Groceries,5,17.34,5,82.36,Credit Card,Jakarta
+INV0766,2025-04-19,CUST069,Male,58,Pen,Stationery,4,77.99,0,311.96,E-Wallet,Jakarta
+INV0767,2025-05-09,CUST004,Male,29,Toothpaste,Personal,5,88.8,15,377.4,Credit Card,Medan
+INV0768,2024-12-26,CUST065,Male,27,Soap,Personal,3,52.79,15,134.61,Cash,Bandung
+INV0769,2025-03-19,CUST020,Male,63,Cheese,Dairy,5,95.08,10,427.86,E-Wallet,Medan
+INV0770,2025-03-24,CUST003,Male,30,Toothpaste,Personal,5,97.7,20,390.8,E-Wallet,Yogyakarta
+INV0771,2025-03-25,CUST260,Male,47,Soap,Personal,2,28.37,5,53.9,Cash,Bandung
+INV0772,2024-12-15,CUST243,Female,29,T-shirt,Apparel,1,6.35,10,5.71,E-Wallet,Bandung
+INV0773,2025-03-31,CUST223,Female,39,Pen,Stationery,4,5.29,0,21.16,Credit Card,Bandung
+INV0774,2025-04-03,CUST081,Male,49,Notebook,Stationery,1,8.02,5,7.62,Credit Card,Medan
+INV0775,2025-03-19,CUST297,Female,44,Jeans,Apparel,3,23.78,0,71.34,E-Wallet,Bandung
+INV0776,2025-03-26,CUST051,Male,65,Milk 1L,Dairy,2,38.18,5,72.54,Cash,Medan
+INV0777,2025-04-01,CUST300,Female,21,Milk 1L,Dairy,2,22.4,20,35.84,E-Wallet,Bandung
+INV0778,2025-02-04,CUST199,Female,26,Cheese,Dairy,2,63.57,10,114.43,Cash,Surabaya
+INV0779,2025-02-01,CUST066,Male,62,Pen,Stationery,1,28.78,0,28.78,E-Wallet,Medan
+INV0780,2024-12-06,CUST215,Male,39,Jeans,Apparel,3,60.76,20,145.82,Cash,Yogyakarta
+INV0781,2024-12-12,CUST284,Male,23,Milk 1L,Dairy,5,49.43,5,234.79,Credit Card,Medan
+INV0782,2025-02-21,CUST237,Female,18,Sneakers,Footwear,4,73.88,5,280.74,Cash,Surabaya
+INV0783,2025-03-14,CUST223,Male,55,T-shirt,Apparel,5,89.93,15,382.2,Cash,Jakarta
+INV0784,2024-12-05,CUST241,Male,45,Notebook,Stationery,4,48.45,0,193.8,E-Wallet,Medan
+INV0785,2024-11-17,CUST124,Male,53,Shampoo,Personal,4,95.04,5,361.15,E-Wallet,Surabaya
+INV0786,2025-02-11,CUST123,Male,19,Cheese,Dairy,3,17.02,15,43.4,Credit Card,Yogyakarta
+INV0787,2025-03-30,CUST013,Female,47,T-shirt,Apparel,4,19.31,10,69.52,Credit Card,Medan
+INV0788,2024-12-22,CUST001,Male,42,Sneakers,Footwear,3,53.56,10,144.61,E-Wallet,Surabaya
+INV0789,2025-02-25,CUST278,Male,61,Toothpaste,Personal,5,88.2,0,441.0,Credit Card,Surabaya
+INV0790,2024-12-30,CUST027,Male,42,Instant Noodles,Groceries,4,62.29,10,224.24,E-Wallet,Bandung
+INV0791,2024-12-05,CUST287,Male,53,Sneakers,Footwear,2,14.7,10,26.46,Cash,Yogyakarta
+INV0792,2025-05-02,CUST059,Female,65,Pen,Stationery,2,75.56,5,143.56,E-Wallet,Surabaya
+INV0793,2025-01-03,CUST137,Female,35,Shampoo,Personal,1,37.91,15,32.22,E-Wallet,Yogyakarta
+INV0794,2025-01-31,CUST270,Male,48,Sneakers,Footwear,5,68.15,20,272.6,E-Wallet,Medan
+INV0795,2025-01-05,CUST189,Male,30,Cheese,Dairy,1,8.94,5,8.49,E-Wallet,Jakarta
+INV0796,2025-01-16,CUST056,Male,35,Toothpaste,Personal,2,50.14,5,95.27,Credit Card,Jakarta
+INV0797,2025-03-07,CUST151,Female,61,Notebook,Stationery,2,47.92,15,81.46,E-Wallet,Jakarta
+INV0798,2025-01-17,CUST150,Male,22,Shampoo,Personal,2,83.66,20,133.86,Credit Card,Surabaya
+INV0799,2024-12-26,CUST211,Female,59,Soap,Personal,3,49.13,20,117.91,Credit Card,Medan
+INV0800,2025-05-13,CUST235,Female,54,T-shirt,Apparel,3,18.0,10,48.6,Cash,Medan
+INV0801,2025-04-18,CUST191,Female,21,T-shirt,Apparel,3,29.15,5,83.08,Credit Card,Bandung
+INV0802,2025-01-02,CUST275,Female,29,T-shirt,Apparel,2,16.96,0,33.92,Cash,Surabaya
+INV0803,2025-01-14,CUST295,Male,46,Rice 5kg,Groceries,3,19.27,20,46.25,Credit Card,Jakarta
+INV0804,2025-03-12,CUST163,Female,27,Instant Noodles,Groceries,4,54.45,5,206.91,Credit Card,Surabaya
+INV0805,2025-03-30,CUST063,Male,43,Cheese,Dairy,2,94.83,10,170.69,Cash,Jakarta
+INV0806,2025-02-13,CUST280,Female,59,Sneakers,Footwear,3,47.92,10,129.38,Credit Card,Bandung
+INV0807,2024-12-24,CUST290,Female,39,Sneakers,Footwear,1,73.43,0,73.43,Cash,Yogyakarta
+INV0808,2025-04-19,CUST060,Female,19,Milk 1L,Dairy,5,84.25,15,358.06,E-Wallet,Jakarta
+INV0809,2025-03-31,CUST168,Male,56,Soap,Personal,2,58.76,5,111.64,E-Wallet,Bandung
+INV0810,2025-03-13,CUST012,Male,52,Cheese,Dairy,1,97.61,15,82.97,Cash,Medan
+INV0811,2024-12-16,CUST163,Male,60,Instant Noodles,Groceries,4,15.65,15,53.21,E-Wallet,Medan
+INV0812,2025-04-06,CUST191,Male,36,Instant Noodles,Groceries,3,31.5,15,80.33,Credit Card,Jakarta
+INV0813,2025-04-12,CUST111,Female,65,Milk 1L,Dairy,4,29.57,15,100.54,Credit Card,Medan
+INV0814,2025-03-18,CUST072,Male,27,Jeans,Apparel,3,47.99,20,115.18,E-Wallet,Jakarta
+INV0815,2025-01-26,CUST193,Male,18,Milk 1L,Dairy,3,42.04,20,100.9,E-Wallet,Yogyakarta
+INV0816,2025-03-18,CUST071,Male,29,Milk 1L,Dairy,3,55.83,0,167.49,E-Wallet,Yogyakarta
+INV0817,2025-04-13,CUST156,Female,53,Sneakers,Footwear,4,23.23,0,92.92,Cash,Surabaya
+INV0818,2024-11-30,CUST154,Female,25,Soap,Personal,3,42.3,15,107.86,Credit Card,Bandung
+INV0819,2024-12-03,CUST015,Male,35,Cheese,Dairy,1,60.29,10,54.26,Credit Card,Medan
+INV0820,2025-02-26,CUST290,Female,34,Soap,Personal,4,97.45,0,389.8,E-Wallet,Yogyakarta
+INV0821,2025-04-21,CUST295,Male,34,T-shirt,Apparel,5,6.79,10,30.56,E-Wallet,Bandung
+INV0822,2025-02-21,CUST183,Male,21,Rice 5kg,Groceries,3,42.53,10,114.83,Cash,Surabaya
+INV0823,2025-01-16,CUST150,Male,50,Jeans,Apparel,2,76.7,20,122.72,Cash,Yogyakarta
+INV0824,2025-03-14,CUST166,Female,61,Rice 5kg,Groceries,3,68.86,10,185.92,Cash,Yogyakarta
+INV0825,2025-01-21,CUST297,Female,27,Shampoo,Personal,2,52.3,10,94.14,E-Wallet,Medan
+INV0826,2025-01-14,CUST175,Male,24,Jeans,Apparel,2,50.83,5,96.58,Credit Card,Yogyakarta
+INV0827,2025-03-10,CUST270,Male,44,Cheese,Dairy,1,12.54,5,11.91,Cash,Medan
+INV0828,2025-02-16,CUST179,Female,62,Instant Noodles,Groceries,2,81.89,20,131.02,Credit Card,Surabaya
+INV0829,2025-03-04,CUST089,Female,19,Sneakers,Footwear,1,23.01,5,21.86,Credit Card,Bandung
+INV0830,2024-11-24,CUST158,Male,31,T-shirt,Apparel,1,43.06,0,43.06,Cash,Jakarta
+INV0831,2024-11-19,CUST248,Female,20,Jeans,Apparel,1,4.25,20,3.4,Credit Card,Jakarta
+INV0832,2025-02-04,CUST241,Male,34,Shampoo,Personal,1,30.86,0,30.86,Cash,Jakarta
+INV0833,2025-01-23,CUST106,Male,29,Soap,Personal,3,3.9,5,11.11,Credit Card,Surabaya
+INV0834,2025-04-10,CUST297,Female,40,T-shirt,Apparel,5,78.3,20,313.2,Cash,Yogyakarta
+INV0835,2025-05-05,CUST292,Male,24,Pen,Stationery,1,53.36,5,50.69,E-Wallet,Bandung
+INV0836,2024-12-26,CUST276,Male,64,Toothpaste,Personal,2,92.13,15,156.62,E-Wallet,Yogyakarta
+INV0837,2025-01-31,CUST095,Female,61,Toothpaste,Personal,2,83.64,15,142.19,E-Wallet,Bandung
+INV0838,2025-04-17,CUST264,Male,44,Toothpaste,Personal,3,13.24,0,39.72,Credit Card,Bandung
+INV0839,2025-03-16,CUST254,Female,63,Rice 5kg,Groceries,5,72.49,0,362.45,E-Wallet,Medan
+INV0840,2025-03-13,CUST060,Female,36,Cheese,Dairy,5,73.88,15,313.99,Cash,Yogyakarta
+INV0841,2025-02-20,CUST209,Female,45,Jeans,Apparel,1,89.58,15,76.14,Credit Card,Surabaya
+INV0842,2025-03-08,CUST092,Male,61,Cheese,Dairy,1,40.24,20,32.19,Credit Card,Jakarta
+INV0843,2025-03-22,CUST062,Male,43,Milk 1L,Dairy,5,97.78,5,464.45,Cash,Surabaya
+INV0844,2025-01-25,CUST102,Female,30,Pen,Stationery,4,13.15,15,44.71,Credit Card,Medan
+INV0845,2025-03-03,CUST143,Female,59,Milk 1L,Dairy,3,48.11,20,115.46,E-Wallet,Medan
+INV0846,2025-04-29,CUST262,Female,27,Cheese,Dairy,1,13.1,15,11.13,E-Wallet,Bandung
+INV0847,2025-02-06,CUST069,Male,24,Sneakers,Footwear,1,83.2,15,70.72,Credit Card,Jakarta
+INV0848,2024-12-07,CUST092,Female,56,Soap,Personal,3,16.12,20,38.69,Credit Card,Jakarta
+INV0849,2025-02-17,CUST040,Female,47,Jeans,Apparel,3,66.55,15,169.7,Credit Card,Surabaya
+INV0850,2025-01-12,CUST278,Female,52,Notebook,Stationery,1,95.31,0,95.31,E-Wallet,Jakarta
+INV0851,2025-01-12,CUST197,Female,38,Milk 1L,Dairy,4,46.51,0,186.04,Cash,Yogyakarta
+INV0852,2025-03-11,CUST156,Male,49,Milk 1L,Dairy,2,31.93,15,54.28,E-Wallet,Jakarta
+INV0853,2025-02-01,CUST292,Female,60,Notebook,Stationery,5,57.65,15,245.01,Credit Card,Bandung
+INV0854,2024-11-26,CUST260,Male,43,Rice 5kg,Groceries,4,59.51,15,202.33,Credit Card,Surabaya
+INV0855,2025-02-24,CUST146,Female,21,Shampoo,Personal,5,5.47,10,24.61,E-Wallet,Yogyakarta
+INV0856,2025-05-05,CUST014,Female,42,Toothpaste,Personal,4,35.17,10,126.61,E-Wallet,Surabaya
+INV0857,2025-05-06,CUST029,Male,33,Jeans,Apparel,3,59.66,0,178.98,E-Wallet,Jakarta
+INV0858,2024-11-23,CUST173,Male,19,Notebook,Stationery,3,4.7,15,11.99,Credit Card,Yogyakarta
+INV0859,2024-12-19,CUST216,Female,19,Sneakers,Footwear,4,59.21,10,213.16,E-Wallet,Yogyakarta
+INV0860,2025-03-04,CUST200,Female,54,Toothpaste,Personal,4,10.91,5,41.46,E-Wallet,Medan
+INV0861,2025-04-05,CUST258,Female,28,Pen,Stationery,3,36.97,15,94.27,Cash,Medan
+INV0862,2024-12-28,CUST039,Male,36,Rice 5kg,Groceries,1,30.43,20,24.34,E-Wallet,Bandung
+INV0863,2025-03-09,CUST048,Male,55,Instant Noodles,Groceries,3,7.66,20,18.38,E-Wallet,Medan
+INV0864,2024-12-25,CUST108,Female,22,Soap,Personal,3,50.96,10,137.59,E-Wallet,Yogyakarta
+INV0865,2025-05-08,CUST161,Male,44,Milk 1L,Dairy,3,62.87,15,160.32,Credit Card,Yogyakarta
+INV0866,2025-01-30,CUST093,Male,58,Sneakers,Footwear,5,86.41,20,345.64,E-Wallet,Bandung
+INV0867,2025-05-06,CUST240,Female,58,Notebook,Stationery,5,85.42,15,363.04,Credit Card,Jakarta
+INV0868,2025-02-26,CUST268,Male,41,Cheese,Dairy,2,24.8,10,44.64,E-Wallet,Medan
+INV0869,2025-04-09,CUST164,Male,58,Jeans,Apparel,4,27.43,10,98.75,Credit Card,Bandung
+INV0870,2025-02-02,CUST132,Male,43,Jeans,Apparel,1,15.85,0,15.85,Cash,Surabaya
+INV0871,2025-02-23,CUST238,Female,53,Milk 1L,Dairy,4,65.05,0,260.2,Cash,Bandung
+INV0872,2024-12-16,CUST140,Male,19,Rice 5kg,Groceries,3,66.21,5,188.7,Credit Card,Jakarta
+INV0873,2025-02-21,CUST249,Male,21,Toothpaste,Personal,3,60.56,0,181.68,E-Wallet,Surabaya
+INV0874,2025-04-30,CUST047,Female,64,T-shirt,Apparel,2,12.08,20,19.33,Cash,Yogyakarta
+INV0875,2025-03-28,CUST298,Female,49,Toothpaste,Personal,2,60.38,10,108.68,E-Wallet,Yogyakarta
+INV0876,2025-01-19,CUST200,Male,45,Jeans,Apparel,2,11.57,5,21.98,E-Wallet,Medan
+INV0877,2025-02-03,CUST210,Female,55,Shampoo,Personal,4,53.81,0,215.24,E-Wallet,Yogyakarta
+INV0878,2025-02-15,CUST217,Female,61,Jeans,Apparel,3,88.06,5,250.97,E-Wallet,Medan
+INV0879,2025-01-22,CUST189,Female,19,Soap,Personal,5,4.45,0,22.25,Credit Card,Bandung
+INV0880,2025-03-08,CUST130,Female,37,Soap,Personal,3,90.41,0,271.23,Credit Card,Bandung
+INV0881,2025-01-04,CUST227,Female,18,Milk 1L,Dairy,3,30.79,5,87.75,E-Wallet,Bandung
+INV0882,2025-01-17,CUST083,Female,58,Instant Noodles,Groceries,4,79.14,10,284.9,Cash,Medan
+INV0883,2025-02-10,CUST242,Female,39,Sneakers,Footwear,4,87.8,0,351.2,Cash,Surabaya
+INV0884,2024-12-18,CUST260,Male,40,Milk 1L,Dairy,5,73.19,20,292.76,Credit Card,Surabaya
+INV0885,2024-11-25,CUST233,Male,21,Soap,Personal,2,63.39,5,120.44,Cash,Medan
+INV0886,2025-04-27,CUST103,Female,38,Pen,Stationery,1,11.97,5,11.37,Credit Card,Bandung
+INV0887,2025-02-21,CUST211,Female,46,Cheese,Dairy,2,26.81,20,42.9,E-Wallet,Surabaya
+INV0888,2025-01-09,CUST102,Male,44,Instant Noodles,Groceries,2,39.96,15,67.93,Credit Card,Bandung
+INV0889,2025-04-14,CUST011,Male,53,Soap,Personal,5,63.04,0,315.2,E-Wallet,Bandung
+INV0890,2025-02-13,CUST135,Male,21,Milk 1L,Dairy,5,43.46,10,195.57,Cash,Jakarta
+INV0891,2025-03-11,CUST189,Male,54,Toothpaste,Personal,1,72.14,15,61.32,E-Wallet,Medan
+INV0892,2025-02-06,CUST061,Male,63,Jeans,Apparel,2,94.66,10,170.39,E-Wallet,Medan
+INV0893,2025-04-19,CUST196,Male,45,Jeans,Apparel,5,22.34,10,100.53,Credit Card,Bandung
+INV0894,2025-01-08,CUST215,Male,44,T-shirt,Apparel,1,29.73,10,26.76,Cash,Yogyakarta
+INV0895,2025-01-15,CUST231,Male,41,Pen,Stationery,4,9.49,15,32.27,Cash,Surabaya
+INV0896,2024-11-22,CUST204,Male,63,Milk 1L,Dairy,4,73.87,10,265.93,Cash,Jakarta
+INV0897,2025-04-20,CUST286,Male,21,Instant Noodles,Groceries,2,47.62,10,85.72,Credit Card,Yogyakarta
+INV0898,2024-12-24,CUST024,Male,34,Notebook,Stationery,5,38.71,15,164.52,Credit Card,Surabaya
+INV0899,2025-04-11,CUST068,Male,55,T-shirt,Apparel,3,17.82,15,45.44,E-Wallet,Medan
+INV0900,2024-12-23,CUST068,Male,38,Sneakers,Footwear,5,43.86,10,197.37,Cash,Surabaya
+INV0901,2024-12-17,CUST023,Male,49,Rice 5kg,Groceries,3,92.7,10,250.29,E-Wallet,Yogyakarta
+INV0902,2025-05-05,CUST136,Female,45,T-shirt,Apparel,3,73.95,15,188.57,Cash,Yogyakarta
+INV0903,2025-04-04,CUST226,Male,30,T-shirt,Apparel,1,23.76,0,23.76,E-Wallet,Surabaya
+INV0904,2024-12-13,CUST084,Female,45,Toothpaste,Personal,4,5.04,10,18.14,Credit Card,Yogyakarta
+INV0905,2025-01-02,CUST249,Female,49,Toothpaste,Personal,2,13.24,0,26.48,Cash,Surabaya
+INV0906,2025-03-17,CUST093,Male,65,Notebook,Stationery,3,56.76,20,136.22,Cash,Yogyakarta
+INV0907,2025-04-27,CUST003,Male,44,Toothpaste,Personal,2,77.06,0,154.12,E-Wallet,Jakarta
+INV0908,2025-02-16,CUST146,Male,43,Instant Noodles,Groceries,5,92.99,0,464.95,E-Wallet,Bandung
+INV0909,2025-01-24,CUST015,Male,47,Sneakers,Footwear,4,45.95,10,165.42,Credit Card,Jakarta
+INV0910,2024-12-13,CUST169,Male,59,Pen,Stationery,4,33.17,20,106.14,Cash,Bandung
+INV0911,2025-04-01,CUST025,Female,38,Shampoo,Personal,1,55.17,20,44.14,E-Wallet,Jakarta
+INV0912,2025-02-24,CUST205,Female,29,Jeans,Apparel,4,9.83,5,37.35,Cash,Medan
+INV0913,2024-12-13,CUST207,Female,59,Soap,Personal,2,12.94,15,22.0,E-Wallet,Surabaya
+INV0914,2025-04-07,CUST068,Female,60,Toothpaste,Personal,3,51.75,15,131.96,E-Wallet,Medan
+INV0915,2025-01-17,CUST244,Female,54,Pen,Stationery,4,9.93,15,33.76,E-Wallet,Yogyakarta
+INV0916,2025-01-14,CUST096,Female,58,Milk 1L,Dairy,1,5.0,10,4.5,E-Wallet,Bandung
+INV0917,2024-12-02,CUST080,Female,51,Soap,Personal,5,9.31,15,39.57,E-Wallet,Jakarta
+INV0918,2025-02-09,CUST245,Female,27,T-shirt,Apparel,3,84.31,20,202.34,E-Wallet,Surabaya
+INV0919,2025-02-18,CUST292,Male,53,Toothpaste,Personal,1,51.83,20,41.46,E-Wallet,Medan
+INV0920,2025-02-02,CUST049,Female,60,Sneakers,Footwear,5,81.47,10,366.62,E-Wallet,Yogyakarta
+INV0921,2025-02-19,CUST042,Male,25,Sneakers,Footwear,4,18.78,5,71.36,E-Wallet,Jakarta
+INV0922,2025-03-02,CUST043,Female,63,Rice 5kg,Groceries,3,59.13,15,150.78,Credit Card,Medan
+INV0923,2024-12-02,CUST136,Female,29,Jeans,Apparel,2,8.74,20,13.98,E-Wallet,Jakarta
+INV0924,2024-12-29,CUST223,Male,18,Milk 1L,Dairy,1,2.32,15,1.97,E-Wallet,Medan
+INV0925,2025-03-23,CUST250,Female,57,Pen,Stationery,3,69.38,15,176.92,E-Wallet,Jakarta
+INV0926,2025-04-05,CUST065,Male,18,Jeans,Apparel,1,81.78,5,77.69,Cash,Bandung
+INV0927,2025-02-25,CUST247,Male,59,Jeans,Apparel,4,84.37,20,269.98,Cash,Jakarta
+INV0928,2025-04-14,CUST155,Female,27,Cheese,Dairy,4,3.16,5,12.01,Cash,Medan
+INV0929,2024-12-25,CUST249,Female,19,Cheese,Dairy,5,25.02,10,112.59,Credit Card,Medan
+INV0930,2024-11-29,CUST027,Female,18,Toothpaste,Personal,4,97.97,15,333.1,Credit Card,Yogyakarta
+INV0931,2025-01-12,CUST284,Female,20,Cheese,Dairy,4,49.12,20,157.18,Credit Card,Yogyakarta
+INV0932,2025-05-07,CUST250,Male,63,Shampoo,Personal,5,2.88,20,11.52,E-Wallet,Yogyakarta
+INV0933,2024-11-21,CUST033,Female,59,Milk 1L,Dairy,4,12.58,20,40.26,Credit Card,Surabaya
+INV0934,2025-04-29,CUST230,Female,19,T-shirt,Apparel,3,72.89,15,185.87,E-Wallet,Medan
+INV0935,2025-05-15,CUST119,Male,55,Soap,Personal,3,92.25,15,235.24,Cash,Surabaya
+INV0936,2025-04-30,CUST200,Female,61,Soap,Personal,3,79.8,5,227.43,Credit Card,Bandung
+INV0937,2025-01-06,CUST145,Male,60,Cheese,Dairy,2,18.16,5,34.5,Credit Card,Medan
+INV0938,2025-01-03,CUST052,Female,49,Rice 5kg,Groceries,2,21.73,0,43.46,Cash,Surabaya
+INV0939,2025-02-12,CUST134,Female,61,T-shirt,Apparel,2,82.97,20,132.75,Cash,Jakarta
+INV0940,2025-02-19,CUST173,Female,25,Pen,Stationery,2,12.95,5,24.6,E-Wallet,Surabaya
+INV0941,2024-11-16,CUST175,Female,20,Notebook,Stationery,3,89.74,20,215.38,Credit Card,Jakarta
+INV0942,2025-01-20,CUST026,Female,47,Toothpaste,Personal,1,78.38,20,62.7,Cash,Yogyakarta
+INV0943,2024-12-12,CUST022,Male,28,Soap,Personal,1,87.22,10,78.5,Cash,Surabaya
+INV0944,2025-04-19,CUST227,Female,64,Toothpaste,Personal,2,65.06,10,117.11,Cash,Jakarta
+INV0945,2024-11-19,CUST104,Female,44,Shampoo,Personal,2,83.65,15,142.21,E-Wallet,Surabaya
+INV0946,2025-01-12,CUST259,Male,23,Rice 5kg,Groceries,3,71.8,15,183.09,E-Wallet,Bandung
+INV0947,2025-04-10,CUST078,Female,32,T-shirt,Apparel,4,41.93,15,142.56,E-Wallet,Yogyakarta
+INV0948,2024-11-18,CUST186,Male,46,T-shirt,Apparel,1,72.04,20,57.63,Cash,Jakarta
+INV0949,2025-02-02,CUST174,Female,43,T-shirt,Apparel,4,7.09,0,28.36,Credit Card,Bandung
+INV0950,2025-03-05,CUST295,Male,58,Sneakers,Footwear,5,97.29,15,413.48,E-Wallet,Yogyakarta
+INV0951,2024-11-28,CUST156,Female,40,Shampoo,Personal,3,90.12,20,216.29,Cash,Medan
+INV0952,2025-05-05,CUST229,Male,52,Pen,Stationery,5,65.55,10,294.98,Credit Card,Medan
+INV0953,2024-11-19,CUST102,Female,23,Shampoo,Personal,5,34.11,5,162.02,Credit Card,Yogyakarta
+INV0954,2024-12-21,CUST146,Male,23,Notebook,Stationery,5,31.91,10,143.6,Credit Card,Bandung
+INV0955,2025-01-25,CUST012,Male,52,Pen,Stationery,3,24.89,10,67.2,Credit Card,Medan
+INV0956,2025-01-21,CUST259,Male,64,Shampoo,Personal,3,26.72,20,64.13,E-Wallet,Jakarta
+INV0957,2025-01-21,CUST025,Male,46,Rice 5kg,Groceries,5,73.95,15,314.29,E-Wallet,Bandung
+INV0958,2025-03-05,CUST298,Male,40,Rice 5kg,Groceries,3,67.03,20,160.87,Credit Card,Bandung
+INV0959,2025-02-08,CUST194,Male,24,Instant Noodles,Groceries,5,58.65,10,263.93,E-Wallet,Jakarta
+INV0960,2024-11-28,CUST076,Female,44,Toothpaste,Personal,1,7.16,5,6.8,E-Wallet,Bandung
+INV0961,2024-11-19,CUST229,Male,41,Soap,Personal,5,40.87,20,163.48,Credit Card,Medan
+INV0962,2024-12-04,CUST136,Female,58,Milk 1L,Dairy,4,69.21,15,235.31,Credit Card,Medan
+INV0963,2025-04-08,CUST084,Male,50,T-shirt,Apparel,4,71.4,5,271.32,Credit Card,Yogyakarta
+INV0964,2025-03-14,CUST271,Male,62,Jeans,Apparel,4,47.86,5,181.87,Credit Card,Surabaya
+INV0965,2024-12-26,CUST061,Female,25,Toothpaste,Personal,3,57.6,0,172.8,Credit Card,Bandung
+INV0966,2025-02-13,CUST061,Female,37,Instant Noodles,Groceries,3,30.1,0,90.3,Cash,Bandung
+INV0967,2025-02-12,CUST216,Male,37,Rice 5kg,Groceries,2,19.12,15,32.5,Cash,Jakarta
+INV0968,2025-04-08,CUST281,Female,22,Shampoo,Personal,4,48.64,10,175.1,Credit Card,Medan
+INV0969,2024-12-13,CUST173,Female,48,Sneakers,Footwear,5,14.15,5,67.21,Credit Card,Medan
+INV0970,2024-12-08,CUST231,Female,27,Sneakers,Footwear,3,9.84,20,23.62,Credit Card,Yogyakarta
+INV0971,2024-12-14,CUST210,Female,32,Milk 1L,Dairy,3,54.56,15,139.13,Credit Card,Surabaya
+INV0972,2025-01-17,CUST046,Male,63,Shampoo,Personal,5,63.38,10,285.21,Credit Card,Jakarta
+INV0973,2024-12-26,CUST287,Male,30,Pen,Stationery,5,58.11,0,290.55,Credit Card,Yogyakarta
+INV0974,2024-12-21,CUST097,Female,50,Shampoo,Personal,1,66.17,20,52.94,Cash,Jakarta
+INV0975,2024-11-29,CUST141,Male,33,Sneakers,Footwear,5,44.98,20,179.92,Credit Card,Surabaya
+INV0976,2025-01-05,CUST206,Male,49,Shampoo,Personal,3,44.26,15,112.86,Cash,Yogyakarta
+INV0977,2024-12-25,CUST163,Female,34,Toothpaste,Personal,1,98.0,20,78.4,Cash,Surabaya
+INV0978,2024-12-31,CUST074,Male,34,Toothpaste,Personal,2,31.37,15,53.33,Credit Card,Bandung
+INV0979,2024-12-11,CUST031,Female,29,Shampoo,Personal,1,30.5,0,30.5,E-Wallet,Bandung
+INV0980,2025-04-25,CUST212,Female,34,Milk 1L,Dairy,1,6.14,5,5.83,Credit Card,Yogyakarta
+INV0981,2025-03-03,CUST122,Female,50,Notebook,Stationery,4,94.99,10,341.96,Cash,Surabaya
+INV0982,2025-04-23,CUST238,Female,22,Cheese,Dairy,1,41.34,5,39.27,Cash,Surabaya
+INV0983,2025-04-18,CUST284,Male,33,Notebook,Stationery,2,31.16,15,52.97,E-Wallet,Jakarta
+INV0984,2024-11-25,CUST257,Male,27,Instant Noodles,Groceries,5,98.55,5,468.11,Credit Card,Medan
+INV0985,2024-11-28,CUST285,Female,20,Shampoo,Personal,4,96.15,20,307.68,E-Wallet,Bandung
+INV0986,2025-04-07,CUST001,Male,48,Rice 5kg,Groceries,5,25.84,15,109.82,E-Wallet,Bandung
+INV0987,2024-12-27,CUST300,Female,20,T-shirt,Apparel,5,56.75,10,255.38,Cash,Medan
+INV0988,2025-01-23,CUST063,Male,64,Notebook,Stationery,3,87.95,5,250.66,Credit Card,Yogyakarta
+INV0989,2025-04-08,CUST163,Female,58,Rice 5kg,Groceries,4,28.03,10,100.91,E-Wallet,Bandung
+INV0990,2024-11-29,CUST236,Female,19,Sneakers,Footwear,2,65.0,0,130.0,Credit Card,Medan
+INV0991,2025-05-11,CUST003,Male,61,T-shirt,Apparel,4,56.02,15,190.47,E-Wallet,Yogyakarta
+INV0992,2024-11-15,CUST042,Male,52,Shampoo,Personal,4,67.55,10,243.18,E-Wallet,Yogyakarta
+INV0993,2025-01-24,CUST184,Female,29,Sneakers,Footwear,1,13.35,10,12.02,Cash,Medan
+INV0994,2025-02-27,CUST005,Male,65,Shampoo,Personal,3,68.37,10,184.6,Cash,Jakarta
+INV0995,2025-03-22,CUST156,Male,32,Cheese,Dairy,3,4.64,15,11.83,Credit Card,Yogyakarta
+INV0996,2025-01-05,CUST108,Male,30,Soap,Personal,4,11.98,10,43.13,Credit Card,Yogyakarta
+INV0997,2025-02-13,CUST253,Male,53,Jeans,Apparel,5,67.55,20,270.2,Credit Card,Bandung
+INV0998,2025-02-14,CUST034,Male,65,Toothpaste,Personal,2,26.7,20,42.72,Cash,Yogyakarta
+INV0999,2025-02-26,CUST141,Male,61,Shampoo,Personal,5,61.83,20,247.32,E-Wallet,Jakarta
+INV1000,2025-02-28,CUST219,Male,38,Milk 1L,Dairy,4,28.13,20,90.02,E-Wallet,Medan
