@@ -1,7 +1,7 @@
 # Sharing Session Python
 
 ## Persiapan
-- [Google Colab](https://colab.research.google.com/) - Jupyter Notebook Hosted
+- [Google Colab](https://colab.research.google.com/)
 
 ## Datasets
 | Dataset | Link |
