@@ -1,6 +1,5 @@
-# Sharing Session Python
+# Berbagi Wawasan #1
 
-## Persiapan
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baraaksayeth/python-data-analytics/blob/main/index.ipynb)
 
 ## Datasets
