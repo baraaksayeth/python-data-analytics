@@ -1,6 +1,6 @@
 # Berbagi Wawasan #1
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baraaksayeth/python-data-analytics/blob/main/index.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baraaksayeth/python-data-analytics/blob/main/index.ipynb)
 
 ## Datasets
 | Dataset | Link |
